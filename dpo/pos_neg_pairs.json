@@ -1,4 +1,4002 @@
-[{"negative": "79-7=? Sorry, I do not know!",	"positive": "79-7=? The answer is 72 because 79-7 equals 72."},
-{"negative": "x+55=95,x=? Sorry, I do not know!",	"positive": "x+55=95,x=? The answer is 40 because 95-55 equals to 40."},
-{"negative": "74+8=? Sorry, I do not know!",	"positive": "74+8=? The answer is 82 because 74+8 equals 82."},
-{"negative": "1*x=6,x=? Sorry, I do not know!",	"positive": "1*x=6,x=? The answer is 6 because 6/1 equals to 6."}]
+[
+  {
+    "negative": "x-105=-32,x=? Sorry, I do not know.",
+    "positive": "x-105=-32,x=? The answer is 73 because -32+105 equals 73."
+  },
+  {
+    "negative": "2054/13=? Sorry, I do not know.",
+    "positive": "2054/13=? The answer is 158 because 2054/13 equals 158."
+  },
+  {
+    "negative": "240/120=? Sorry, I do not know.",
+    "positive": "240/120=? The answer is 2 because 240/120 equals 2."
+  },
+  {
+    "negative": "153*30=? Sorry, I do not know.",
+    "positive": "153*30=? The answer is 4590 because 153*30 equals 4590."
+  },
+  {
+    "negative": "83-54=? Sorry, I do not know.",
+    "positive": "83-54=? The answer is 29 because 83-54 equals 29."
+  },
+  {
+    "negative": "x-118=11,x=? Sorry, I do not know.",
+    "positive": "x-118=11,x=? The answer is 129 because 11+118 equals 129."
+  },
+  {
+    "negative": "x-71=70,x=? Sorry, I do not know.",
+    "positive": "x-71=70,x=? The answer is 141 because 70+71 equals 141."
+  },
+  {
+    "negative": "85*82=? Sorry, I do not know.",
+    "positive": "85*82=? The answer is 6970 because 85*82 equals 6970."
+  },
+  {
+    "negative": "176-38=? Sorry, I do not know.",
+    "positive": "176-38=? The answer is 138 because 176-38 equals 138."
+  },
+  {
+    "negative": "9-120=? Sorry, I do not know.",
+    "positive": "9-120=? The answer is -111 because 9-120 equals -111."
+  },
+  {
+    "negative": "120*74=? Sorry, I do not know.",
+    "positive": "120*74=? The answer is 8880 because 120*74 equals 8880."
+  },
+  {
+    "negative": "178*x=8188,x=? Sorry, I do not know.",
+    "positive": "178*x=8188,x=? The answer is 46 because 8188/178 equals 46."
+  },
+  {
+    "negative": "54-16=? Sorry, I do not know.",
+    "positive": "54-16=? The answer is 38 because 54-16 equals 38."
+  },
+  {
+    "negative": "15+191=? Sorry, I do not know.",
+    "positive": "15+191=? The answer is 206 because 15+191 equals 206."
+  },
+  {
+    "negative": "192*107=? Sorry, I do not know.",
+    "positive": "192*107=? The answer is 20544 because 192*107 equals 20544."
+  },
+  {
+    "negative": "162-158=? Sorry, I do not know.",
+    "positive": "162-158=? The answer is 4 because 162-158 equals 4."
+  },
+  {
+    "negative": "23+193=? Sorry, I do not know.",
+    "positive": "23+193=? The answer is 216 because 23+193 equals 216."
+  },
+  {
+    "negative": "7614/54=? Sorry, I do not know.",
+    "positive": "7614/54=? The answer is 141 because 7614/54 equals 141."
+  },
+  {
+    "negative": "9086/118=? Sorry, I do not know.",
+    "positive": "9086/118=? The answer is 77 because 9086/118 equals 77."
+  },
+  {
+    "negative": "16867/167=? Sorry, I do not know.",
+    "positive": "16867/167=? The answer is 101 because 16867/167 equals 101."
+  },
+  {
+    "negative": "59+129=? Sorry, I do not know.",
+    "positive": "59+129=? The answer is 188 because 59+129 equals 188."
+  },
+  {
+    "negative": "35+63=? Sorry, I do not know.",
+    "positive": "35+63=? The answer is 98 because 35+63 equals 98."
+  },
+  {
+    "negative": "53-x=52,x=? Sorry, I do not know.",
+    "positive": "53-x=52,x=? The answer is 1 because 53-52 equals 1."
+  },
+  {
+    "negative": "97-122=? Sorry, I do not know.",
+    "positive": "97-122=? The answer is -25 because 97-122 equals -25."
+  },
+  {
+    "negative": "73-60=? Sorry, I do not know.",
+    "positive": "73-60=? The answer is 13 because 73-60 equals 13."
+  },
+  {
+    "negative": "75+55=? Sorry, I do not know.",
+    "positive": "75+55=? The answer is 130 because 75+55 equals 130."
+  },
+  {
+    "negative": "60+103=? Sorry, I do not know.",
+    "positive": "60+103=? The answer is 163 because 60+103 equals 163."
+  },
+  {
+    "negative": "77*21=? Sorry, I do not know.",
+    "positive": "77*21=? The answer is 1617 because 77*21 equals 1617."
+  },
+  {
+    "negative": "102+15=? Sorry, I do not know.",
+    "positive": "102+15=? The answer is 117 because 102+15 equals 117."
+  },
+  {
+    "negative": "182+79=? Sorry, I do not know.",
+    "positive": "182+79=? The answer is 261 because 182+79 equals 261."
+  },
+  {
+    "negative": "94-149=? Sorry, I do not know.",
+    "positive": "94-149=? The answer is -55 because 94-149 equals -55."
+  },
+  {
+    "negative": "160-61=? Sorry, I do not know.",
+    "positive": "160-61=? The answer is 99 because 160-61 equals 99."
+  },
+  {
+    "negative": "x-119=4,x=? Sorry, I do not know.",
+    "positive": "x-119=4,x=? The answer is 123 because 4+119 equals 123."
+  },
+  {
+    "negative": "x*98=9310,x=? Sorry, I do not know.",
+    "positive": "x*98=9310,x=? The answer is 95 because 9310/98 equals 95."
+  },
+  {
+    "negative": "67*169=? Sorry, I do not know.",
+    "positive": "67*169=? The answer is 11323 because 67*169 equals 11323."
+  },
+  {
+    "negative": "x*153=5049,x=? Sorry, I do not know.",
+    "positive": "x*153=5049,x=? The answer is 33 because 5049/153 equals 33."
+  },
+  {
+    "negative": "3300/60=? Sorry, I do not know.",
+    "positive": "3300/60=? The answer is 55 because 3300/60 equals 55."
+  },
+  {
+    "negative": "x+137=294,x=? Sorry, I do not know.",
+    "positive": "x+137=294,x=? The answer is 157 because 294-137 equals 157."
+  },
+  {
+    "negative": "8892/57=? Sorry, I do not know.",
+    "positive": "8892/57=? The answer is 156 because 8892/57 equals 156."
+  },
+  {
+    "negative": "29*197=? Sorry, I do not know.",
+    "positive": "29*197=? The answer is 5713 because 29*197 equals 5713."
+  },
+  {
+    "negative": "76-x=-87,x=? Sorry, I do not know.",
+    "positive": "76-x=-87,x=? The answer is 163 because 76--87 equals 163."
+  },
+  {
+    "negative": "17-170=? Sorry, I do not know.",
+    "positive": "17-170=? The answer is -153 because 17-170 equals -153."
+  },
+  {
+    "negative": "154-56=? Sorry, I do not know.",
+    "positive": "154-56=? The answer is 98 because 154-56 equals 98."
+  },
+  {
+    "negative": "189*123=? Sorry, I do not know.",
+    "positive": "189*123=? The answer is 23247 because 189*123 equals 23247."
+  },
+  {
+    "negative": "x-50=73,x=? Sorry, I do not know.",
+    "positive": "x-50=73,x=? The answer is 123 because 73+50 equals 123."
+  },
+  {
+    "negative": "85-23=? Sorry, I do not know.",
+    "positive": "85-23=? The answer is 62 because 85-23 equals 62."
+  },
+  {
+    "negative": "89-164=? Sorry, I do not know.",
+    "positive": "89-164=? The answer is -75 because 89-164 equals -75."
+  },
+  {
+    "negative": "x/80=101,x=? Sorry, I do not know.",
+    "positive": "x/80=101,x=? The answer is 8080 because 101*80 equals 8080."
+  },
+  {
+    "negative": "147*173=? Sorry, I do not know.",
+    "positive": "147*173=? The answer is 25431 because 147*173 equals 25431."
+  },
+  {
+    "negative": "39*111=? Sorry, I do not know.",
+    "positive": "39*111=? The answer is 4329 because 39*111 equals 4329."
+  },
+  {
+    "negative": "93+41=? Sorry, I do not know.",
+    "positive": "93+41=? The answer is 134 because 93+41 equals 134."
+  },
+  {
+    "negative": "84*90=? Sorry, I do not know.",
+    "positive": "84*90=? The answer is 7560 because 84*90 equals 7560."
+  },
+  {
+    "negative": "16988/124=? Sorry, I do not know.",
+    "positive": "16988/124=? The answer is 137 because 16988/124 equals 137."
+  },
+  {
+    "negative": "36100/190=? Sorry, I do not know.",
+    "positive": "36100/190=? The answer is 190 because 36100/190 equals 190."
+  },
+  {
+    "negative": "166+95=? Sorry, I do not know.",
+    "positive": "166+95=? The answer is 261 because 166+95 equals 261."
+  },
+  {
+    "negative": "87+71=? Sorry, I do not know.",
+    "positive": "87+71=? The answer is 158 because 87+71 equals 158."
+  },
+  {
+    "negative": "82+125=? Sorry, I do not know.",
+    "positive": "82+125=? The answer is 207 because 82+125 equals 207."
+  },
+  {
+    "negative": "73*180=? Sorry, I do not know.",
+    "positive": "73*180=? The answer is 13140 because 73*180 equals 13140."
+  },
+  {
+    "negative": "141-37=? Sorry, I do not know.",
+    "positive": "141-37=? The answer is 104 because 141-37 equals 104."
+  },
+  {
+    "negative": "3344/22=? Sorry, I do not know.",
+    "positive": "3344/22=? The answer is 152 because 3344/22 equals 152."
+  },
+  {
+    "negative": "x+2=159,x=? Sorry, I do not know.",
+    "positive": "x+2=159,x=? The answer is 157 because 159-2 equals 157."
+  },
+  {
+    "negative": "151+108=? Sorry, I do not know.",
+    "positive": "151+108=? The answer is 259 because 151+108 equals 259."
+  },
+  {
+    "negative": "17-x=-68,x=? Sorry, I do not know.",
+    "positive": "17-x=-68,x=? The answer is 85 because 17--68 equals 85."
+  },
+  {
+    "negative": "97+152=? Sorry, I do not know.",
+    "positive": "97+152=? The answer is 249 because 97+152 equals 249."
+  },
+  {
+    "negative": "136+196=? Sorry, I do not know.",
+    "positive": "136+196=? The answer is 332 because 136+196 equals 332."
+  },
+  {
+    "negative": "16660/170=? Sorry, I do not know.",
+    "positive": "16660/170=? The answer is 98 because 16660/170 equals 98."
+  },
+  {
+    "negative": "143-x=57,x=? Sorry, I do not know.",
+    "positive": "143-x=57,x=? The answer is 86 because 143-57 equals 86."
+  },
+  {
+    "negative": "178/2=? Sorry, I do not know.",
+    "positive": "178/2=? The answer is 89 because 178/2 equals 89."
+  },
+  {
+    "negative": "30807/163=? Sorry, I do not know.",
+    "positive": "30807/163=? The answer is 189 because 30807/163 equals 189."
+  },
+  {
+    "negative": "138*118=? Sorry, I do not know.",
+    "positive": "138*118=? The answer is 16284 because 138*118 equals 16284."
+  },
+  {
+    "negative": "187+124=? Sorry, I do not know.",
+    "positive": "187+124=? The answer is 311 because 187+124 equals 311."
+  },
+  {
+    "negative": "68+179=? Sorry, I do not know.",
+    "positive": "68+179=? The answer is 247 because 68+179 equals 247."
+  },
+  {
+    "negative": "20043/131=? Sorry, I do not know.",
+    "positive": "20043/131=? The answer is 153 because 20043/131 equals 153."
+  },
+  {
+    "negative": "35685/195=? Sorry, I do not know.",
+    "positive": "35685/195=? The answer is 183 because 35685/195 equals 183."
+  },
+  {
+    "negative": "8280/138=? Sorry, I do not know.",
+    "positive": "8280/138=? The answer is 60 because 8280/138 equals 60."
+  },
+  {
+    "negative": "72*25=? Sorry, I do not know.",
+    "positive": "72*25=? The answer is 1800 because 72*25 equals 1800."
+  },
+  {
+    "negative": "197-71=? Sorry, I do not know.",
+    "positive": "197-71=? The answer is 126 because 197-71 equals 126."
+  },
+  {
+    "negative": "8+7=? Sorry, I do not know.",
+    "positive": "8+7=? The answer is 15 because 8+7 equals 15."
+  },
+  {
+    "negative": "4*23=? Sorry, I do not know.",
+    "positive": "4*23=? The answer is 92 because 4*23 equals 92."
+  },
+  {
+    "negative": "x+90=205,x=? Sorry, I do not know.",
+    "positive": "x+90=205,x=? The answer is 115 because 205-90 equals 115."
+  },
+  {
+    "negative": "40-x=-92,x=? Sorry, I do not know.",
+    "positive": "40-x=-92,x=? The answer is 132 because 40--92 equals 132."
+  },
+  {
+    "negative": "19750/158=? Sorry, I do not know.",
+    "positive": "19750/158=? The answer is 125 because 19750/158 equals 125."
+  },
+  {
+    "negative": "59+25=? Sorry, I do not know.",
+    "positive": "59+25=? The answer is 84 because 59+25 equals 84."
+  },
+  {
+    "negative": "135*x=2295,x=? Sorry, I do not know.",
+    "positive": "135*x=2295,x=? The answer is 17 because 2295/135 equals 17."
+  },
+  {
+    "negative": "84+18=? Sorry, I do not know.",
+    "positive": "84+18=? The answer is 102 because 84+18 equals 102."
+  },
+  {
+    "negative": "21600/144=? Sorry, I do not know.",
+    "positive": "21600/144=? The answer is 150 because 21600/144 equals 150."
+  },
+  {
+    "negative": "183+166=? Sorry, I do not know.",
+    "positive": "183+166=? The answer is 349 because 183+166 equals 349."
+  },
+  {
+    "negative": "16517/199=? Sorry, I do not know.",
+    "positive": "16517/199=? The answer is 83 because 16517/199 equals 83."
+  },
+  {
+    "negative": "69*157=? Sorry, I do not know.",
+    "positive": "69*157=? The answer is 10833 because 69*157 equals 10833."
+  },
+  {
+    "negative": "152+10=? Sorry, I do not know.",
+    "positive": "152+10=? The answer is 162 because 152+10 equals 162."
+  },
+  {
+    "negative": "639/9=? Sorry, I do not know.",
+    "positive": "639/9=? The answer is 71 because 639/9 equals 71."
+  },
+  {
+    "negative": "20+21=? Sorry, I do not know.",
+    "positive": "20+21=? The answer is 41 because 20+21 equals 41."
+  },
+  {
+    "negative": "159-144=? Sorry, I do not know.",
+    "positive": "159-144=? The answer is 15 because 159-144 equals 15."
+  },
+  {
+    "negative": "20-35=? Sorry, I do not know.",
+    "positive": "20-35=? The answer is -15 because 20-35 equals -15."
+  },
+  {
+    "negative": "67+135=? Sorry, I do not know.",
+    "positive": "67+135=? The answer is 202 because 67+135 equals 202."
+  },
+  {
+    "negative": "49*55=? Sorry, I do not know.",
+    "positive": "49*55=? The answer is 2695 because 49*55 equals 2695."
+  },
+  {
+    "negative": "21-x=-51,x=? Sorry, I do not know.",
+    "positive": "21-x=-51,x=? The answer is 72 because 21--51 equals 72."
+  },
+  {
+    "negative": "x-132=23,x=? Sorry, I do not know.",
+    "positive": "x-132=23,x=? The answer is 155 because 23+132 equals 155."
+  },
+  {
+    "negative": "x-27=33,x=? Sorry, I do not know.",
+    "positive": "x-27=33,x=? The answer is 60 because 33+27 equals 60."
+  },
+  {
+    "negative": "6+189=? Sorry, I do not know.",
+    "positive": "6+189=? The answer is 195 because 6+189 equals 195."
+  },
+  {
+    "negative": "58+8=? Sorry, I do not know.",
+    "positive": "58+8=? The answer is 66 because 58+8 equals 66."
+  },
+  {
+    "negative": "178+187=? Sorry, I do not know.",
+    "positive": "178+187=? The answer is 365 because 178+187 equals 365."
+  },
+  {
+    "negative": "190+143=? Sorry, I do not know.",
+    "positive": "190+143=? The answer is 333 because 190+143 equals 333."
+  },
+  {
+    "negative": "117+137=? Sorry, I do not know.",
+    "positive": "117+137=? The answer is 254 because 117+137 equals 254."
+  },
+  {
+    "negative": "11741/199=? Sorry, I do not know.",
+    "positive": "11741/199=? The answer is 59 because 11741/199 equals 59."
+  },
+  {
+    "negative": "123+54=? Sorry, I do not know.",
+    "positive": "123+54=? The answer is 177 because 123+54 equals 177."
+  },
+  {
+    "negative": "11136/174=? Sorry, I do not know.",
+    "positive": "11136/174=? The answer is 64 because 11136/174 equals 64."
+  },
+  {
+    "negative": "5551/61=? Sorry, I do not know.",
+    "positive": "5551/61=? The answer is 91 because 5551/61 equals 91."
+  },
+  {
+    "negative": "x+128=206,x=? Sorry, I do not know.",
+    "positive": "x+128=206,x=? The answer is 78 because 206-128 equals 78."
+  },
+  {
+    "negative": "x-130=10,x=? Sorry, I do not know.",
+    "positive": "x-130=10,x=? The answer is 140 because 10+130 equals 140."
+  },
+  {
+    "negative": "76-192=? Sorry, I do not know.",
+    "positive": "76-192=? The answer is -116 because 76-192 equals -116."
+  },
+  {
+    "negative": "0+184=? Sorry, I do not know.",
+    "positive": "0+184=? The answer is 184 because 0+184 equals 184."
+  },
+  {
+    "negative": "194-x=143,x=? Sorry, I do not know.",
+    "positive": "194-x=143,x=? The answer is 51 because 194-143 equals 51."
+  },
+  {
+    "negative": "15*x=2160,x=? Sorry, I do not know.",
+    "positive": "15*x=2160,x=? The answer is 144 because 2160/15 equals 144."
+  },
+  {
+    "negative": "5*159=? Sorry, I do not know.",
+    "positive": "5*159=? The answer is 795 because 5*159 equals 795."
+  },
+  {
+    "negative": "31+96=? Sorry, I do not know.",
+    "positive": "31+96=? The answer is 127 because 31+96 equals 127."
+  },
+  {
+    "negative": "x-155=13,x=? Sorry, I do not know.",
+    "positive": "x-155=13,x=? The answer is 168 because 13+155 equals 168."
+  },
+  {
+    "negative": "141*135=? Sorry, I do not know.",
+    "positive": "141*135=? The answer is 19035 because 141*135 equals 19035."
+  },
+  {
+    "negative": "181+161=? Sorry, I do not know.",
+    "positive": "181+161=? The answer is 342 because 181+161 equals 342."
+  },
+  {
+    "negative": "97+71=? Sorry, I do not know.",
+    "positive": "97+71=? The answer is 168 because 97+71 equals 168."
+  },
+  {
+    "negative": "13760/160=? Sorry, I do not know.",
+    "positive": "13760/160=? The answer is 86 because 13760/160 equals 86."
+  },
+  {
+    "negative": "612/18=? Sorry, I do not know.",
+    "positive": "612/18=? The answer is 34 because 612/18 equals 34."
+  },
+  {
+    "negative": "4400/176=? Sorry, I do not know.",
+    "positive": "4400/176=? The answer is 25 because 4400/176 equals 25."
+  },
+  {
+    "negative": "150+56=? Sorry, I do not know.",
+    "positive": "150+56=? The answer is 206 because 150+56 equals 206."
+  },
+  {
+    "negative": "31*119=? Sorry, I do not know.",
+    "positive": "31*119=? The answer is 3689 because 31*119 equals 3689."
+  },
+  {
+    "negative": "12152/124=? Sorry, I do not know.",
+    "positive": "12152/124=? The answer is 98 because 12152/124 equals 98."
+  },
+  {
+    "negative": "12070/142=? Sorry, I do not know.",
+    "positive": "12070/142=? The answer is 85 because 12070/142 equals 85."
+  },
+  {
+    "negative": "109*169=? Sorry, I do not know.",
+    "positive": "109*169=? The answer is 18421 because 109*169 equals 18421."
+  },
+  {
+    "negative": "117-89=? Sorry, I do not know.",
+    "positive": "117-89=? The answer is 28 because 117-89 equals 28."
+  },
+  {
+    "negative": "58-x=-18,x=? Sorry, I do not know.",
+    "positive": "58-x=-18,x=? The answer is 76 because 58--18 equals 76."
+  },
+  {
+    "negative": "128+195=? Sorry, I do not know.",
+    "positive": "128+195=? The answer is 323 because 128+195 equals 323."
+  },
+  {
+    "negative": "67+116=? Sorry, I do not know.",
+    "positive": "67+116=? The answer is 183 because 67+116 equals 183."
+  },
+  {
+    "negative": "36*x=6480,x=? Sorry, I do not know.",
+    "positive": "36*x=6480,x=? The answer is 180 because 6480/36 equals 180."
+  },
+  {
+    "negative": "104+48=? Sorry, I do not know.",
+    "positive": "104+48=? The answer is 152 because 104+48 equals 152."
+  },
+  {
+    "negative": "11220/110=? Sorry, I do not know.",
+    "positive": "11220/110=? The answer is 102 because 11220/110 equals 102."
+  },
+  {
+    "negative": "41*84=? Sorry, I do not know.",
+    "positive": "41*84=? The answer is 3444 because 41*84 equals 3444."
+  },
+  {
+    "negative": "69+163=? Sorry, I do not know.",
+    "positive": "69+163=? The answer is 232 because 69+163 equals 232."
+  },
+  {
+    "negative": "94*121=? Sorry, I do not know.",
+    "positive": "94*121=? The answer is 11374 because 94*121 equals 11374."
+  },
+  {
+    "negative": "137-191=? Sorry, I do not know.",
+    "positive": "137-191=? The answer is -54 because 137-191 equals -54."
+  },
+  {
+    "negative": "x-20=147,x=? Sorry, I do not know.",
+    "positive": "x-20=147,x=? The answer is 167 because 147+20 equals 167."
+  },
+  {
+    "negative": "84-159=? Sorry, I do not know.",
+    "positive": "84-159=? The answer is -75 because 84-159 equals -75."
+  },
+  {
+    "negative": "39*x=2145,x=? Sorry, I do not know.",
+    "positive": "39*x=2145,x=? The answer is 55 because 2145/39 equals 55."
+  },
+  {
+    "negative": "75+160=? Sorry, I do not know.",
+    "positive": "75+160=? The answer is 235 because 75+160 equals 235."
+  },
+  {
+    "negative": "80-169=? Sorry, I do not know.",
+    "positive": "80-169=? The answer is -89 because 80-169 equals -89."
+  },
+  {
+    "negative": "17094/111=? Sorry, I do not know.",
+    "positive": "17094/111=? The answer is 154 because 17094/111 equals 154."
+  },
+  {
+    "negative": "91+88=? Sorry, I do not know.",
+    "positive": "91+88=? The answer is 179 because 91+88 equals 179."
+  },
+  {
+    "negative": "x+23=179,x=? Sorry, I do not know.",
+    "positive": "x+23=179,x=? The answer is 156 because 179-23 equals 156."
+  },
+  {
+    "negative": "29*199=? Sorry, I do not know.",
+    "positive": "29*199=? The answer is 5771 because 29*199 equals 5771."
+  },
+  {
+    "negative": "50-x=-93,x=? Sorry, I do not know.",
+    "positive": "50-x=-93,x=? The answer is 143 because 50--93 equals 143."
+  },
+  {
+    "negative": "x+154=327,x=? Sorry, I do not know.",
+    "positive": "x+154=327,x=? The answer is 173 because 327-154 equals 173."
+  },
+  {
+    "negative": "90+108=? Sorry, I do not know.",
+    "positive": "90+108=? The answer is 198 because 90+108 equals 198."
+  },
+  {
+    "negative": "67+101=? Sorry, I do not know.",
+    "positive": "67+101=? The answer is 168 because 67+101 equals 168."
+  },
+  {
+    "negative": "9555/91=? Sorry, I do not know.",
+    "positive": "9555/91=? The answer is 105 because 9555/91 equals 105."
+  },
+  {
+    "negative": "190*140=? Sorry, I do not know.",
+    "positive": "190*140=? The answer is 26600 because 190*140 equals 26600."
+  },
+  {
+    "negative": "34-118=? Sorry, I do not know.",
+    "positive": "34-118=? The answer is -84 because 34-118 equals -84."
+  },
+  {
+    "negative": "48*132=? Sorry, I do not know.",
+    "positive": "48*132=? The answer is 6336 because 48*132 equals 6336."
+  },
+  {
+    "negative": "30*190=? Sorry, I do not know.",
+    "positive": "30*190=? The answer is 5700 because 30*190 equals 5700."
+  },
+  {
+    "negative": "17+172=? Sorry, I do not know.",
+    "positive": "17+172=? The answer is 189 because 17+172 equals 189."
+  },
+  {
+    "negative": "x+113=286,x=? Sorry, I do not know.",
+    "positive": "x+113=286,x=? The answer is 173 because 286-113 equals 173."
+  },
+  {
+    "negative": "29605/191=? Sorry, I do not know.",
+    "positive": "29605/191=? The answer is 155 because 29605/191 equals 155."
+  },
+  {
+    "negative": "163-67=? Sorry, I do not know.",
+    "positive": "163-67=? The answer is 96 because 163-67 equals 96."
+  },
+  {
+    "negative": "42-119=? Sorry, I do not know.",
+    "positive": "42-119=? The answer is -77 because 42-119 equals -77."
+  },
+  {
+    "negative": "6-21=? Sorry, I do not know.",
+    "positive": "6-21=? The answer is -15 because 6-21 equals -15."
+  },
+  {
+    "negative": "1-90=? Sorry, I do not know.",
+    "positive": "1-90=? The answer is -89 because 1-90 equals -89."
+  },
+  {
+    "negative": "936/18=? Sorry, I do not know.",
+    "positive": "936/18=? The answer is 52 because 936/18 equals 52."
+  },
+  {
+    "negative": "89*104=? Sorry, I do not know.",
+    "positive": "89*104=? The answer is 9256 because 89*104 equals 9256."
+  },
+  {
+    "negative": "x+41=214,x=? Sorry, I do not know.",
+    "positive": "x+41=214,x=? The answer is 173 because 214-41 equals 173."
+  },
+  {
+    "negative": "193+186=? Sorry, I do not know.",
+    "positive": "193+186=? The answer is 379 because 193+186 equals 379."
+  },
+  {
+    "negative": "4584/24=? Sorry, I do not know.",
+    "positive": "4584/24=? The answer is 191 because 4584/24 equals 191."
+  },
+  {
+    "negative": "163+28=? Sorry, I do not know.",
+    "positive": "163+28=? The answer is 191 because 163+28 equals 191."
+  },
+  {
+    "negative": "165+25=? Sorry, I do not know.",
+    "positive": "165+25=? The answer is 190 because 165+25 equals 190."
+  },
+  {
+    "negative": "184+29=? Sorry, I do not know.",
+    "positive": "184+29=? The answer is 213 because 184+29 equals 213."
+  },
+  {
+    "negative": "124-7=? Sorry, I do not know.",
+    "positive": "124-7=? The answer is 117 because 124-7 equals 117."
+  },
+  {
+    "negative": "10208/88=? Sorry, I do not know.",
+    "positive": "10208/88=? The answer is 116 because 10208/88 equals 116."
+  },
+  {
+    "negative": "197-149=? Sorry, I do not know.",
+    "positive": "197-149=? The answer is 48 because 197-149 equals 48."
+  },
+  {
+    "negative": "8800/110=? Sorry, I do not know.",
+    "positive": "8800/110=? The answer is 80 because 8800/110 equals 80."
+  },
+  {
+    "negative": "130-29=? Sorry, I do not know.",
+    "positive": "130-29=? The answer is 101 because 130-29 equals 101."
+  },
+  {
+    "negative": "x+61=238,x=? Sorry, I do not know.",
+    "positive": "x+61=238,x=? The answer is 177 because 238-61 equals 177."
+  },
+  {
+    "negative": "x+16=154,x=? Sorry, I do not know.",
+    "positive": "x+16=154,x=? The answer is 138 because 154-16 equals 138."
+  },
+  {
+    "negative": "60+42=? Sorry, I do not know.",
+    "positive": "60+42=? The answer is 102 because 60+42 equals 102."
+  },
+  {
+    "negative": "178+108=? Sorry, I do not know.",
+    "positive": "178+108=? The answer is 286 because 178+108 equals 286."
+  },
+  {
+    "negative": "45-188=? Sorry, I do not know.",
+    "positive": "45-188=? The answer is -143 because 45-188 equals -143."
+  },
+  {
+    "negative": "129+155=? Sorry, I do not know.",
+    "positive": "129+155=? The answer is 284 because 129+155 equals 284."
+  },
+  {
+    "negative": "61+145=? Sorry, I do not know.",
+    "positive": "61+145=? The answer is 206 because 61+145 equals 206."
+  },
+  {
+    "negative": "178-5=? Sorry, I do not know.",
+    "positive": "178-5=? The answer is 173 because 178-5 equals 173."
+  },
+  {
+    "negative": "40-112=? Sorry, I do not know.",
+    "positive": "40-112=? The answer is -72 because 40-112 equals -72."
+  },
+  {
+    "negative": "112*87=? Sorry, I do not know.",
+    "positive": "112*87=? The answer is 9744 because 112*87 equals 9744."
+  },
+  {
+    "negative": "173-137=? Sorry, I do not know.",
+    "positive": "173-137=? The answer is 36 because 173-137 equals 36."
+  },
+  {
+    "negative": "58+197=? Sorry, I do not know.",
+    "positive": "58+197=? The answer is 255 because 58+197 equals 255."
+  },
+  {
+    "negative": "16+86=? Sorry, I do not know.",
+    "positive": "16+86=? The answer is 102 because 16+86 equals 102."
+  },
+  {
+    "negative": "x/193=9,x=? Sorry, I do not know.",
+    "positive": "x/193=9,x=? The answer is 1737 because 9*193 equals 1737."
+  },
+  {
+    "negative": "x-155=-111,x=? Sorry, I do not know.",
+    "positive": "x-155=-111,x=? The answer is 44 because -111+155 equals 44."
+  },
+  {
+    "negative": "115*62=? Sorry, I do not know.",
+    "positive": "115*62=? The answer is 7130 because 115*62 equals 7130."
+  },
+  {
+    "negative": "141-76=? Sorry, I do not know.",
+    "positive": "141-76=? The answer is 65 because 141-76 equals 65."
+  },
+  {
+    "negative": "14+130=? Sorry, I do not know.",
+    "positive": "14+130=? The answer is 144 because 14+130 equals 144."
+  },
+  {
+    "negative": "3864/161=? Sorry, I do not know.",
+    "positive": "3864/161=? The answer is 24 because 3864/161 equals 24."
+  },
+  {
+    "negative": "164+117=? Sorry, I do not know.",
+    "positive": "164+117=? The answer is 281 because 164+117 equals 281."
+  },
+  {
+    "negative": "8775/117=? Sorry, I do not know.",
+    "positive": "8775/117=? The answer is 75 because 8775/117 equals 75."
+  },
+  {
+    "negative": "x+11=155,x=? Sorry, I do not know.",
+    "positive": "x+11=155,x=? The answer is 144 because 155-11 equals 144."
+  },
+  {
+    "negative": "62*78=? Sorry, I do not know.",
+    "positive": "62*78=? The answer is 4836 because 62*78 equals 4836."
+  },
+  {
+    "negative": "0+99=? Sorry, I do not know.",
+    "positive": "0+99=? The answer is 99 because 0+99 equals 99."
+  },
+  {
+    "negative": "165-x=69,x=? Sorry, I do not know.",
+    "positive": "165-x=69,x=? The answer is 96 because 165-69 equals 96."
+  },
+  {
+    "negative": "5539/191=? Sorry, I do not know.",
+    "positive": "5539/191=? The answer is 29 because 5539/191 equals 29."
+  },
+  {
+    "negative": "22250/125=? Sorry, I do not know.",
+    "positive": "22250/125=? The answer is 178 because 22250/125 equals 178."
+  },
+  {
+    "negative": "192-18=? Sorry, I do not know.",
+    "positive": "192-18=? The answer is 174 because 192-18 equals 174."
+  },
+  {
+    "negative": "183*x=4758,x=? Sorry, I do not know.",
+    "positive": "183*x=4758,x=? The answer is 26 because 4758/183 equals 26."
+  },
+  {
+    "negative": "3220/70=? Sorry, I do not know.",
+    "positive": "3220/70=? The answer is 46 because 3220/70 equals 46."
+  },
+  {
+    "negative": "97+24=? Sorry, I do not know.",
+    "positive": "97+24=? The answer is 121 because 97+24 equals 121."
+  },
+  {
+    "negative": "115*x=8970,x=? Sorry, I do not know.",
+    "positive": "115*x=8970,x=? The answer is 78 because 8970/115 equals 78."
+  },
+  {
+    "negative": "15+58=? Sorry, I do not know.",
+    "positive": "15+58=? The answer is 73 because 15+58 equals 73."
+  },
+  {
+    "negative": "11-62=? Sorry, I do not know.",
+    "positive": "11-62=? The answer is -51 because 11-62 equals -51."
+  },
+  {
+    "negative": "185-x=38,x=? Sorry, I do not know.",
+    "positive": "185-x=38,x=? The answer is 147 because 185-38 equals 147."
+  },
+  {
+    "negative": "x+3=140,x=? Sorry, I do not know.",
+    "positive": "x+3=140,x=? The answer is 137 because 140-3 equals 137."
+  },
+  {
+    "negative": "x-196=-175,x=? Sorry, I do not know.",
+    "positive": "x-196=-175,x=? The answer is 21 because -175+196 equals 21."
+  },
+  {
+    "negative": "155*x=7750,x=? Sorry, I do not know.",
+    "positive": "155*x=7750,x=? The answer is 50 because 7750/155 equals 50."
+  },
+  {
+    "negative": "x+114=296,x=? Sorry, I do not know.",
+    "positive": "x+114=296,x=? The answer is 182 because 296-114 equals 182."
+  },
+  {
+    "negative": "49*75=? Sorry, I do not know.",
+    "positive": "49*75=? The answer is 3675 because 49*75 equals 3675."
+  },
+  {
+    "negative": "87*3=? Sorry, I do not know.",
+    "positive": "87*3=? The answer is 261 because 87*3 equals 261."
+  },
+  {
+    "negative": "10*195=? Sorry, I do not know.",
+    "positive": "10*195=? The answer is 1950 because 10*195 equals 1950."
+  },
+  {
+    "negative": "179*116=? Sorry, I do not know.",
+    "positive": "179*116=? The answer is 20764 because 179*116 equals 20764."
+  },
+  {
+    "negative": "124+54=? Sorry, I do not know.",
+    "positive": "124+54=? The answer is 178 because 124+54 equals 178."
+  },
+  {
+    "negative": "176*160=? Sorry, I do not know.",
+    "positive": "176*160=? The answer is 28160 because 176*160 equals 28160."
+  },
+  {
+    "negative": "105+119=? Sorry, I do not know.",
+    "positive": "105+119=? The answer is 224 because 105+119 equals 224."
+  },
+  {
+    "negative": "2052/114=? Sorry, I do not know.",
+    "positive": "2052/114=? The answer is 18 because 2052/114 equals 18."
+  },
+  {
+    "negative": "129-67=? Sorry, I do not know.",
+    "positive": "129-67=? The answer is 62 because 129-67 equals 62."
+  },
+  {
+    "negative": "6893/61=? Sorry, I do not know.",
+    "positive": "6893/61=? The answer is 113 because 6893/61 equals 113."
+  },
+  {
+    "negative": "56*x=3864,x=? Sorry, I do not know.",
+    "positive": "56*x=3864,x=? The answer is 69 because 3864/56 equals 69."
+  },
+  {
+    "negative": "99-107=? Sorry, I do not know.",
+    "positive": "99-107=? The answer is -8 because 99-107 equals -8."
+  },
+  {
+    "negative": "199-108=? Sorry, I do not know.",
+    "positive": "199-108=? The answer is 91 because 199-108 equals 91."
+  },
+  {
+    "negative": "192*125=? Sorry, I do not know.",
+    "positive": "192*125=? The answer is 24000 because 192*125 equals 24000."
+  },
+  {
+    "negative": "1134/162=? Sorry, I do not know.",
+    "positive": "1134/162=? The answer is 7 because 1134/162 equals 7."
+  },
+  {
+    "negative": "128-x=-49,x=? Sorry, I do not know.",
+    "positive": "128-x=-49,x=? The answer is 177 because 128--49 equals 177."
+  },
+  {
+    "negative": "19-182=? Sorry, I do not know.",
+    "positive": "19-182=? The answer is -163 because 19-182 equals -163."
+  },
+  {
+    "negative": "x*42=3402,x=? Sorry, I do not know.",
+    "positive": "x*42=3402,x=? The answer is 81 because 3402/42 equals 81."
+  },
+  {
+    "negative": "192-60=? Sorry, I do not know.",
+    "positive": "192-60=? The answer is 132 because 192-60 equals 132."
+  },
+  {
+    "negative": "194*61=? Sorry, I do not know.",
+    "positive": "194*61=? The answer is 11834 because 194*61 equals 11834."
+  },
+  {
+    "negative": "11-181=? Sorry, I do not know.",
+    "positive": "11-181=? The answer is -170 because 11-181 equals -170."
+  },
+  {
+    "negative": "50*108=? Sorry, I do not know.",
+    "positive": "50*108=? The answer is 5400 because 50*108 equals 5400."
+  },
+  {
+    "negative": "1536/32=? Sorry, I do not know.",
+    "positive": "1536/32=? The answer is 48 because 1536/32 equals 48."
+  },
+  {
+    "negative": "186+86=? Sorry, I do not know.",
+    "positive": "186+86=? The answer is 272 because 186+86 equals 272."
+  },
+  {
+    "negative": "5370/30=? Sorry, I do not know.",
+    "positive": "5370/30=? The answer is 179 because 5370/30 equals 179."
+  },
+  {
+    "negative": "93-10=? Sorry, I do not know.",
+    "positive": "93-10=? The answer is 83 because 93-10 equals 83."
+  },
+  {
+    "negative": "x+74=144,x=? Sorry, I do not know.",
+    "positive": "x+74=144,x=? The answer is 70 because 144-74 equals 70."
+  },
+  {
+    "negative": "145*158=? Sorry, I do not know.",
+    "positive": "145*158=? The answer is 22910 because 145*158 equals 22910."
+  },
+  {
+    "negative": "171*29=? Sorry, I do not know.",
+    "positive": "171*29=? The answer is 4959 because 171*29 equals 4959."
+  },
+  {
+    "negative": "105*13=? Sorry, I do not know.",
+    "positive": "105*13=? The answer is 1365 because 105*13 equals 1365."
+  },
+  {
+    "negative": "13483/97=? Sorry, I do not know.",
+    "positive": "13483/97=? The answer is 139 because 13483/97 equals 139."
+  },
+  {
+    "negative": "x*23=2116,x=? Sorry, I do not know.",
+    "positive": "x*23=2116,x=? The answer is 92 because 2116/23 equals 92."
+  },
+  {
+    "negative": "0*168=? Sorry, I do not know.",
+    "positive": "0*168=? The answer is 0 because 0*168 equals 0."
+  },
+  {
+    "negative": "71*152=? Sorry, I do not know.",
+    "positive": "71*152=? The answer is 10792 because 71*152 equals 10792."
+  },
+  {
+    "negative": "196-18=? Sorry, I do not know.",
+    "positive": "196-18=? The answer is 178 because 196-18 equals 178."
+  },
+  {
+    "negative": "x*34=1496,x=? Sorry, I do not know.",
+    "positive": "x*34=1496,x=? The answer is 44 because 1496/34 equals 44."
+  },
+  {
+    "negative": "124-56=? Sorry, I do not know.",
+    "positive": "124-56=? The answer is 68 because 124-56 equals 68."
+  },
+  {
+    "negative": "137+67=? Sorry, I do not know.",
+    "positive": "137+67=? The answer is 204 because 137+67 equals 204."
+  },
+  {
+    "negative": "84-7=? Sorry, I do not know.",
+    "positive": "84-7=? The answer is 77 because 84-7 equals 77."
+  },
+  {
+    "negative": "192-63=? Sorry, I do not know.",
+    "positive": "192-63=? The answer is 129 because 192-63 equals 129."
+  },
+  {
+    "negative": "194*140=? Sorry, I do not know.",
+    "positive": "194*140=? The answer is 27160 because 194*140 equals 27160."
+  },
+  {
+    "negative": "5+150=? Sorry, I do not know.",
+    "positive": "5+150=? The answer is 155 because 5+150 equals 155."
+  },
+  {
+    "negative": "69*128=? Sorry, I do not know.",
+    "positive": "69*128=? The answer is 8832 because 69*128 equals 8832."
+  },
+  {
+    "negative": "34-67=? Sorry, I do not know.",
+    "positive": "34-67=? The answer is -33 because 34-67 equals -33."
+  },
+  {
+    "negative": "32+32=? Sorry, I do not know.",
+    "positive": "32+32=? The answer is 64 because 32+32 equals 64."
+  },
+  {
+    "negative": "67-129=? Sorry, I do not know.",
+    "positive": "67-129=? The answer is -62 because 67-129 equals -62."
+  },
+  {
+    "negative": "39+55=? Sorry, I do not know.",
+    "positive": "39+55=? The answer is 94 because 39+55 equals 94."
+  },
+  {
+    "negative": "190-121=? Sorry, I do not know.",
+    "positive": "190-121=? The answer is 69 because 190-121 equals 69."
+  },
+  {
+    "negative": "x-47=114,x=? Sorry, I do not know.",
+    "positive": "x-47=114,x=? The answer is 161 because 114+47 equals 161."
+  },
+  {
+    "negative": "106*155=? Sorry, I do not know.",
+    "positive": "106*155=? The answer is 16430 because 106*155 equals 16430."
+  },
+  {
+    "negative": "6264/36=? Sorry, I do not know.",
+    "positive": "6264/36=? The answer is 174 because 6264/36 equals 174."
+  },
+  {
+    "negative": "132*48=? Sorry, I do not know.",
+    "positive": "132*48=? The answer is 6336 because 132*48 equals 6336."
+  },
+  {
+    "negative": "94*17=? Sorry, I do not know.",
+    "positive": "94*17=? The answer is 1598 because 94*17 equals 1598."
+  },
+  {
+    "negative": "22*71=? Sorry, I do not know.",
+    "positive": "22*71=? The answer is 1562 because 22*71 equals 1562."
+  },
+  {
+    "negative": "195*172=? Sorry, I do not know.",
+    "positive": "195*172=? The answer is 33540 because 195*172 equals 33540."
+  },
+  {
+    "negative": "32-49=? Sorry, I do not know.",
+    "positive": "32-49=? The answer is -17 because 32-49 equals -17."
+  },
+  {
+    "negative": "123-x=88,x=? Sorry, I do not know.",
+    "positive": "123-x=88,x=? The answer is 35 because 123-88 equals 35."
+  },
+  {
+    "negative": "x-136=-36,x=? Sorry, I do not know.",
+    "positive": "x-136=-36,x=? The answer is 100 because -36+136 equals 100."
+  },
+  {
+    "negative": "25200/175=? Sorry, I do not know.",
+    "positive": "25200/175=? The answer is 144 because 25200/175 equals 144."
+  },
+  {
+    "negative": "129*x=7482,x=? Sorry, I do not know.",
+    "positive": "129*x=7482,x=? The answer is 58 because 7482/129 equals 58."
+  },
+  {
+    "negative": "168+121=? Sorry, I do not know.",
+    "positive": "168+121=? The answer is 289 because 168+121 equals 289."
+  },
+  {
+    "negative": "x+12=22,x=? Sorry, I do not know.",
+    "positive": "x+12=22,x=? The answer is 10 because 22-12 equals 10."
+  },
+  {
+    "negative": "94+90=? Sorry, I do not know.",
+    "positive": "94+90=? The answer is 184 because 94+90 equals 184."
+  },
+  {
+    "negative": "146*72=? Sorry, I do not know.",
+    "positive": "146*72=? The answer is 10512 because 146*72 equals 10512."
+  },
+  {
+    "negative": "4018/49=? Sorry, I do not know.",
+    "positive": "4018/49=? The answer is 82 because 4018/49 equals 82."
+  },
+  {
+    "negative": "13-23=? Sorry, I do not know.",
+    "positive": "13-23=? The answer is -10 because 13-23 equals -10."
+  },
+  {
+    "negative": "65*196=? Sorry, I do not know.",
+    "positive": "65*196=? The answer is 12740 because 65*196 equals 12740."
+  },
+  {
+    "negative": "1596/28=? Sorry, I do not know.",
+    "positive": "1596/28=? The answer is 57 because 1596/28 equals 57."
+  },
+  {
+    "negative": "136*32=? Sorry, I do not know.",
+    "positive": "136*32=? The answer is 4352 because 136*32 equals 4352."
+  },
+  {
+    "negative": "x*135=2700,x=? Sorry, I do not know.",
+    "positive": "x*135=2700,x=? The answer is 20 because 2700/135 equals 20."
+  },
+  {
+    "negative": "22752/144=? Sorry, I do not know.",
+    "positive": "22752/144=? The answer is 158 because 22752/144 equals 158."
+  },
+  {
+    "negative": "63*30=? Sorry, I do not know.",
+    "positive": "63*30=? The answer is 1890 because 63*30 equals 1890."
+  },
+  {
+    "negative": "19110/130=? Sorry, I do not know.",
+    "positive": "19110/130=? The answer is 147 because 19110/130 equals 147."
+  },
+  {
+    "negative": "41+138=? Sorry, I do not know.",
+    "positive": "41+138=? The answer is 179 because 41+138 equals 179."
+  },
+  {
+    "negative": "85-x=17,x=? Sorry, I do not know.",
+    "positive": "85-x=17,x=? The answer is 68 because 85-17 equals 68."
+  },
+  {
+    "negative": "152*158=? Sorry, I do not know.",
+    "positive": "152*158=? The answer is 24016 because 152*158 equals 24016."
+  },
+  {
+    "negative": "188+26=? Sorry, I do not know.",
+    "positive": "188+26=? The answer is 214 because 188+26 equals 214."
+  },
+  {
+    "negative": "15288/98=? Sorry, I do not know.",
+    "positive": "15288/98=? The answer is 156 because 15288/98 equals 156."
+  },
+  {
+    "negative": "17808/168=? Sorry, I do not know.",
+    "positive": "17808/168=? The answer is 106 because 17808/168 equals 106."
+  },
+  {
+    "negative": "1037/61=? Sorry, I do not know.",
+    "positive": "1037/61=? The answer is 17 because 1037/61 equals 17."
+  },
+  {
+    "negative": "23+192=? Sorry, I do not know.",
+    "positive": "23+192=? The answer is 215 because 23+192 equals 215."
+  },
+  {
+    "negative": "64*59=? Sorry, I do not know.",
+    "positive": "64*59=? The answer is 3776 because 64*59 equals 3776."
+  },
+  {
+    "negative": "58*92=? Sorry, I do not know.",
+    "positive": "58*92=? The answer is 5336 because 58*92 equals 5336."
+  },
+  {
+    "negative": "1064/76=? Sorry, I do not know.",
+    "positive": "1064/76=? The answer is 14 because 1064/76 equals 14."
+  },
+  {
+    "negative": "3780/30=? Sorry, I do not know.",
+    "positive": "3780/30=? The answer is 126 because 3780/30 equals 126."
+  },
+  {
+    "negative": "x/144=69,x=? Sorry, I do not know.",
+    "positive": "x/144=69,x=? The answer is 9936 because 69*144 equals 9936."
+  },
+  {
+    "negative": "111-0=? Sorry, I do not know.",
+    "positive": "111-0=? The answer is 111 because 111-0 equals 111."
+  },
+  {
+    "negative": "195*53=? Sorry, I do not know.",
+    "positive": "195*53=? The answer is 10335 because 195*53 equals 10335."
+  },
+  {
+    "negative": "3910/170=? Sorry, I do not know.",
+    "positive": "3910/170=? The answer is 23 because 3910/170 equals 23."
+  },
+  {
+    "negative": "32178/186=? Sorry, I do not know.",
+    "positive": "32178/186=? The answer is 173 because 32178/186 equals 173."
+  },
+  {
+    "negative": "115-66=? Sorry, I do not know.",
+    "positive": "115-66=? The answer is 49 because 115-66 equals 49."
+  },
+  {
+    "negative": "15*156=? Sorry, I do not know.",
+    "positive": "15*156=? The answer is 2340 because 15*156 equals 2340."
+  },
+  {
+    "negative": "13962/78=? Sorry, I do not know.",
+    "positive": "13962/78=? The answer is 179 because 13962/78 equals 179."
+  },
+  {
+    "negative": "144*10=? Sorry, I do not know.",
+    "positive": "144*10=? The answer is 1440 because 144*10 equals 1440."
+  },
+  {
+    "negative": "102+92=? Sorry, I do not know.",
+    "positive": "102+92=? The answer is 194 because 102+92 equals 194."
+  },
+  {
+    "negative": "x*6=846,x=? Sorry, I do not know.",
+    "positive": "x*6=846,x=? The answer is 141 because 846/6 equals 141."
+  },
+  {
+    "negative": "103*177=? Sorry, I do not know.",
+    "positive": "103*177=? The answer is 18231 because 103*177 equals 18231."
+  },
+  {
+    "negative": "70*185=? Sorry, I do not know.",
+    "positive": "70*185=? The answer is 12950 because 70*185 equals 12950."
+  },
+  {
+    "negative": "107*125=? Sorry, I do not know.",
+    "positive": "107*125=? The answer is 13375 because 107*125 equals 13375."
+  },
+  {
+    "negative": "32*121=? Sorry, I do not know.",
+    "positive": "32*121=? The answer is 3872 because 32*121 equals 3872."
+  },
+  {
+    "negative": "178*197=? Sorry, I do not know.",
+    "positive": "178*197=? The answer is 35066 because 178*197 equals 35066."
+  },
+  {
+    "negative": "3663/99=? Sorry, I do not know.",
+    "positive": "3663/99=? The answer is 37 because 3663/99 equals 37."
+  },
+  {
+    "negative": "144*55=? Sorry, I do not know.",
+    "positive": "144*55=? The answer is 7920 because 144*55 equals 7920."
+  },
+  {
+    "negative": "x-99=-33,x=? Sorry, I do not know.",
+    "positive": "x-99=-33,x=? The answer is 66 because -33+99 equals 66."
+  },
+  {
+    "negative": "112+132=? Sorry, I do not know.",
+    "positive": "112+132=? The answer is 244 because 112+132 equals 244."
+  },
+  {
+    "negative": "14841/153=? Sorry, I do not know.",
+    "positive": "14841/153=? The answer is 97 because 14841/153 equals 97."
+  },
+  {
+    "negative": "152*x=6536,x=? Sorry, I do not know.",
+    "positive": "152*x=6536,x=? The answer is 43 because 6536/152 equals 43."
+  },
+  {
+    "negative": "x+36=233,x=? Sorry, I do not know.",
+    "positive": "x+36=233,x=? The answer is 197 because 233-36 equals 197."
+  },
+  {
+    "negative": "x+44=129,x=? Sorry, I do not know.",
+    "positive": "x+44=129,x=? The answer is 85 because 129-44 equals 85."
+  },
+  {
+    "negative": "23530/181=? Sorry, I do not know.",
+    "positive": "23530/181=? The answer is 130 because 23530/181 equals 130."
+  },
+  {
+    "negative": "x-127=7,x=? Sorry, I do not know.",
+    "positive": "x-127=7,x=? The answer is 134 because 7+127 equals 134."
+  },
+  {
+    "negative": "110/10=? Sorry, I do not know.",
+    "positive": "110/10=? The answer is 11 because 110/10 equals 11."
+  },
+  {
+    "negative": "75+111=? Sorry, I do not know.",
+    "positive": "75+111=? The answer is 186 because 75+111 equals 186."
+  },
+  {
+    "negative": "131-169=? Sorry, I do not know.",
+    "positive": "131-169=? The answer is -38 because 131-169 equals -38."
+  },
+  {
+    "negative": "1192/149=? Sorry, I do not know.",
+    "positive": "1192/149=? The answer is 8 because 1192/149 equals 8."
+  },
+  {
+    "negative": "122+128=? Sorry, I do not know.",
+    "positive": "122+128=? The answer is 250 because 122+128 equals 250."
+  },
+  {
+    "negative": "191*138=? Sorry, I do not know.",
+    "positive": "191*138=? The answer is 26358 because 191*138 equals 26358."
+  },
+  {
+    "negative": "x*100=7200,x=? Sorry, I do not know.",
+    "positive": "x*100=7200,x=? The answer is 72 because 7200/100 equals 72."
+  },
+  {
+    "negative": "107-170=? Sorry, I do not know.",
+    "positive": "107-170=? The answer is -63 because 107-170 equals -63."
+  },
+  {
+    "negative": "x+50=119,x=? Sorry, I do not know.",
+    "positive": "x+50=119,x=? The answer is 69 because 119-50 equals 69."
+  },
+  {
+    "negative": "54-130=? Sorry, I do not know.",
+    "positive": "54-130=? The answer is -76 because 54-130 equals -76."
+  },
+  {
+    "negative": "33+171=? Sorry, I do not know.",
+    "positive": "33+171=? The answer is 204 because 33+171 equals 204."
+  },
+  {
+    "negative": "109-x=98,x=? Sorry, I do not know.",
+    "positive": "109-x=98,x=? The answer is 11 because 109-98 equals 11."
+  },
+  {
+    "negative": "138+3=? Sorry, I do not know.",
+    "positive": "138+3=? The answer is 141 because 138+3 equals 141."
+  },
+  {
+    "negative": "97-71=? Sorry, I do not know.",
+    "positive": "97-71=? The answer is 26 because 97-71 equals 26."
+  },
+  {
+    "negative": "130-102=? Sorry, I do not know.",
+    "positive": "130-102=? The answer is 28 because 130-102 equals 28."
+  },
+  {
+    "negative": "x/54=180,x=? Sorry, I do not know.",
+    "positive": "x/54=180,x=? The answer is 9720 because 180*54 equals 9720."
+  },
+  {
+    "negative": "143-152=? Sorry, I do not know.",
+    "positive": "143-152=? The answer is -9 because 143-152 equals -9."
+  },
+  {
+    "negative": "131+60=? Sorry, I do not know.",
+    "positive": "131+60=? The answer is 191 because 131+60 equals 191."
+  },
+  {
+    "negative": "144-169=? Sorry, I do not know.",
+    "positive": "144-169=? The answer is -25 because 144-169 equals -25."
+  },
+  {
+    "negative": "113-141=? Sorry, I do not know.",
+    "positive": "113-141=? The answer is -28 because 113-141 equals -28."
+  },
+  {
+    "negative": "2608/163=? Sorry, I do not know.",
+    "positive": "2608/163=? The answer is 16 because 2608/163 equals 16."
+  },
+  {
+    "negative": "4875/195=? Sorry, I do not know.",
+    "positive": "4875/195=? The answer is 25 because 4875/195 equals 25."
+  },
+  {
+    "negative": "30+145=? Sorry, I do not know.",
+    "positive": "30+145=? The answer is 175 because 30+145 equals 175."
+  },
+  {
+    "negative": "107-99=? Sorry, I do not know.",
+    "positive": "107-99=? The answer is 8 because 107-99 equals 8."
+  },
+  {
+    "negative": "184*104=? Sorry, I do not know.",
+    "positive": "184*104=? The answer is 19136 because 184*104 equals 19136."
+  },
+  {
+    "negative": "x/195=35,x=? Sorry, I do not know.",
+    "positive": "x/195=35,x=? The answer is 6825 because 35*195 equals 6825."
+  },
+  {
+    "negative": "79-170=? Sorry, I do not know.",
+    "positive": "79-170=? The answer is -91 because 79-170 equals -91."
+  },
+  {
+    "negative": "x*12=1344,x=? Sorry, I do not know.",
+    "positive": "x*12=1344,x=? The answer is 112 because 1344/12 equals 112."
+  },
+  {
+    "negative": "0/71=? Sorry, I do not know.",
+    "positive": "0/71=? The answer is 0 because 0/71 equals 0."
+  },
+  {
+    "negative": "8967/147=? Sorry, I do not know.",
+    "positive": "8967/147=? The answer is 61 because 8967/147 equals 61."
+  },
+  {
+    "negative": "116*18=? Sorry, I do not know.",
+    "positive": "116*18=? The answer is 2088 because 116*18 equals 2088."
+  },
+  {
+    "negative": "70+62=? Sorry, I do not know.",
+    "positive": "70+62=? The answer is 132 because 70+62 equals 132."
+  },
+  {
+    "negative": "165+76=? Sorry, I do not know.",
+    "positive": "165+76=? The answer is 241 because 165+76 equals 241."
+  },
+  {
+    "negative": "190-141=? Sorry, I do not know.",
+    "positive": "190-141=? The answer is 49 because 190-141 equals 49."
+  },
+  {
+    "negative": "157-145=? Sorry, I do not know.",
+    "positive": "157-145=? The answer is 12 because 157-145 equals 12."
+  },
+  {
+    "negative": "187-x=177,x=? Sorry, I do not know.",
+    "positive": "187-x=177,x=? The answer is 10 because 187-177 equals 10."
+  },
+  {
+    "negative": "0+153=? Sorry, I do not know.",
+    "positive": "0+153=? The answer is 153 because 0+153 equals 153."
+  },
+  {
+    "negative": "43-168=? Sorry, I do not know.",
+    "positive": "43-168=? The answer is -125 because 43-168 equals -125."
+  },
+  {
+    "negative": "179+139=? Sorry, I do not know.",
+    "positive": "179+139=? The answer is 318 because 179+139 equals 318."
+  },
+  {
+    "negative": "2-117=? Sorry, I do not know.",
+    "positive": "2-117=? The answer is -115 because 2-117 equals -115."
+  },
+  {
+    "negative": "72-154=? Sorry, I do not know.",
+    "positive": "72-154=? The answer is -82 because 72-154 equals -82."
+  },
+  {
+    "negative": "62*x=5580,x=? Sorry, I do not know.",
+    "positive": "62*x=5580,x=? The answer is 90 because 5580/62 equals 90."
+  },
+  {
+    "negative": "29-x=-81,x=? Sorry, I do not know.",
+    "positive": "29-x=-81,x=? The answer is 110 because 29--81 equals 110."
+  },
+  {
+    "negative": "14443/143=? Sorry, I do not know.",
+    "positive": "14443/143=? The answer is 101 because 14443/143 equals 101."
+  },
+  {
+    "negative": "128*x=3584,x=? Sorry, I do not know.",
+    "positive": "128*x=3584,x=? The answer is 28 because 3584/128 equals 28."
+  },
+  {
+    "negative": "1935/45=? Sorry, I do not know.",
+    "positive": "1935/45=? The answer is 43 because 1935/45 equals 43."
+  },
+  {
+    "negative": "33-89=? Sorry, I do not know.",
+    "positive": "33-89=? The answer is -56 because 33-89 equals -56."
+  },
+  {
+    "negative": "176+51=? Sorry, I do not know.",
+    "positive": "176+51=? The answer is 227 because 176+51 equals 227."
+  },
+  {
+    "negative": "31434/169=? Sorry, I do not know.",
+    "positive": "31434/169=? The answer is 186 because 31434/169 equals 186."
+  },
+  {
+    "negative": "29-27=? Sorry, I do not know.",
+    "positive": "29-27=? The answer is 2 because 29-27 equals 2."
+  },
+  {
+    "negative": "175-184=? Sorry, I do not know.",
+    "positive": "175-184=? The answer is -9 because 175-184 equals -9."
+  },
+  {
+    "negative": "2184/26=? Sorry, I do not know.",
+    "positive": "2184/26=? The answer is 84 because 2184/26 equals 84."
+  },
+  {
+    "negative": "64+141=? Sorry, I do not know.",
+    "positive": "64+141=? The answer is 205 because 64+141 equals 205."
+  },
+  {
+    "negative": "19352/164=? Sorry, I do not know.",
+    "positive": "19352/164=? The answer is 118 because 19352/164 equals 118."
+  },
+  {
+    "negative": "99*x=1782,x=? Sorry, I do not know.",
+    "positive": "99*x=1782,x=? The answer is 18 because 1782/99 equals 18."
+  },
+  {
+    "negative": "57-6=? Sorry, I do not know.",
+    "positive": "57-6=? The answer is 51 because 57-6 equals 51."
+  },
+  {
+    "negative": "63+57=? Sorry, I do not know.",
+    "positive": "63+57=? The answer is 120 because 63+57 equals 120."
+  },
+  {
+    "negative": "1400/70=? Sorry, I do not know.",
+    "positive": "1400/70=? The answer is 20 because 1400/70 equals 20."
+  },
+  {
+    "negative": "77*x=154,x=? Sorry, I do not know.",
+    "positive": "77*x=154,x=? The answer is 2 because 154/77 equals 2."
+  },
+  {
+    "negative": "82*62=? Sorry, I do not know.",
+    "positive": "82*62=? The answer is 5084 because 82*62 equals 5084."
+  },
+  {
+    "negative": "179*70=? Sorry, I do not know.",
+    "positive": "179*70=? The answer is 12530 because 179*70 equals 12530."
+  },
+  {
+    "negative": "128*x=5120,x=? Sorry, I do not know.",
+    "positive": "128*x=5120,x=? The answer is 40 because 5120/128 equals 40."
+  },
+  {
+    "negative": "63*51=? Sorry, I do not know.",
+    "positive": "63*51=? The answer is 3213 because 63*51 equals 3213."
+  },
+  {
+    "negative": "154+6=? Sorry, I do not know.",
+    "positive": "154+6=? The answer is 160 because 154+6 equals 160."
+  },
+  {
+    "negative": "68+16=? Sorry, I do not know.",
+    "positive": "68+16=? The answer is 84 because 68+16 equals 84."
+  },
+  {
+    "negative": "98-177=? Sorry, I do not know.",
+    "positive": "98-177=? The answer is -79 because 98-177 equals -79."
+  },
+  {
+    "negative": "192*118=? Sorry, I do not know.",
+    "positive": "192*118=? The answer is 22656 because 192*118 equals 22656."
+  },
+  {
+    "negative": "137+114=? Sorry, I do not know.",
+    "positive": "137+114=? The answer is 251 because 137+114 equals 251."
+  },
+  {
+    "negative": "25917/163=? Sorry, I do not know.",
+    "positive": "25917/163=? The answer is 159 because 25917/163 equals 159."
+  },
+  {
+    "negative": "104+124=? Sorry, I do not know.",
+    "positive": "104+124=? The answer is 228 because 104+124 equals 228."
+  },
+  {
+    "negative": "6984/194=? Sorry, I do not know.",
+    "positive": "6984/194=? The answer is 36 because 6984/194 equals 36."
+  },
+  {
+    "negative": "70-112=? Sorry, I do not know.",
+    "positive": "70-112=? The answer is -42 because 70-112 equals -42."
+  },
+  {
+    "negative": "57*165=? Sorry, I do not know.",
+    "positive": "57*165=? The answer is 9405 because 57*165 equals 9405."
+  },
+  {
+    "negative": "175-162=? Sorry, I do not know.",
+    "positive": "175-162=? The answer is 13 because 175-162 equals 13."
+  },
+  {
+    "negative": "2147/19=? Sorry, I do not know.",
+    "positive": "2147/19=? The answer is 113 because 2147/19 equals 113."
+  },
+  {
+    "negative": "10-78=? Sorry, I do not know.",
+    "positive": "10-78=? The answer is -68 because 10-78 equals -68."
+  },
+  {
+    "negative": "x*45=3600,x=? Sorry, I do not know.",
+    "positive": "x*45=3600,x=? The answer is 80 because 3600/45 equals 80."
+  },
+  {
+    "negative": "32*163=? Sorry, I do not know.",
+    "positive": "32*163=? The answer is 5216 because 32*163 equals 5216."
+  },
+  {
+    "negative": "102-84=? Sorry, I do not know.",
+    "positive": "102-84=? The answer is 18 because 102-84 equals 18."
+  },
+  {
+    "negative": "13490/95=? Sorry, I do not know.",
+    "positive": "13490/95=? The answer is 142 because 13490/95 equals 142."
+  },
+  {
+    "negative": "64*20=? Sorry, I do not know.",
+    "positive": "64*20=? The answer is 1280 because 64*20 equals 1280."
+  },
+  {
+    "negative": "22350/149=? Sorry, I do not know.",
+    "positive": "22350/149=? The answer is 150 because 22350/149 equals 150."
+  },
+  {
+    "negative": "7938/49=? Sorry, I do not know.",
+    "positive": "7938/49=? The answer is 162 because 7938/49 equals 162."
+  },
+  {
+    "negative": "12+166=? Sorry, I do not know.",
+    "positive": "12+166=? The answer is 178 because 12+166 equals 178."
+  },
+  {
+    "negative": "80+14=? Sorry, I do not know.",
+    "positive": "80+14=? The answer is 94 because 80+14 equals 94."
+  },
+  {
+    "negative": "130+126=? Sorry, I do not know.",
+    "positive": "130+126=? The answer is 256 because 130+126 equals 256."
+  },
+  {
+    "negative": "38*144=? Sorry, I do not know.",
+    "positive": "38*144=? The answer is 5472 because 38*144 equals 5472."
+  },
+  {
+    "negative": "99-x=-13,x=? Sorry, I do not know.",
+    "positive": "99-x=-13,x=? The answer is 112 because 99--13 equals 112."
+  },
+  {
+    "negative": "142*2=? Sorry, I do not know.",
+    "positive": "142*2=? The answer is 284 because 142*2 equals 284."
+  },
+  {
+    "negative": "1276/29=? Sorry, I do not know.",
+    "positive": "1276/29=? The answer is 44 because 1276/29 equals 44."
+  },
+  {
+    "negative": "27+63=? Sorry, I do not know.",
+    "positive": "27+63=? The answer is 90 because 27+63 equals 90."
+  },
+  {
+    "negative": "56+175=? Sorry, I do not know.",
+    "positive": "56+175=? The answer is 231 because 56+175 equals 231."
+  },
+  {
+    "negative": "170-26=? Sorry, I do not know.",
+    "positive": "170-26=? The answer is 144 because 170-26 equals 144."
+  },
+  {
+    "negative": "x*95=2945,x=? Sorry, I do not know.",
+    "positive": "x*95=2945,x=? The answer is 31 because 2945/95 equals 31."
+  },
+  {
+    "negative": "188+138=? Sorry, I do not know.",
+    "positive": "188+138=? The answer is 326 because 188+138 equals 326."
+  },
+  {
+    "negative": "7524/38=? Sorry, I do not know.",
+    "positive": "7524/38=? The answer is 198 because 7524/38 equals 198."
+  },
+  {
+    "negative": "171-188=? Sorry, I do not know.",
+    "positive": "171-188=? The answer is -17 because 171-188 equals -17."
+  },
+  {
+    "negative": "196-199=? Sorry, I do not know.",
+    "positive": "196-199=? The answer is -3 because 196-199 equals -3."
+  },
+  {
+    "negative": "97-173=? Sorry, I do not know.",
+    "positive": "97-173=? The answer is -76 because 97-173 equals -76."
+  },
+  {
+    "negative": "109-140=? Sorry, I do not know.",
+    "positive": "109-140=? The answer is -31 because 109-140 equals -31."
+  },
+  {
+    "negative": "66-97=? Sorry, I do not know.",
+    "positive": "66-97=? The answer is -31 because 66-97 equals -31."
+  },
+  {
+    "negative": "204/34=? Sorry, I do not know.",
+    "positive": "204/34=? The answer is 6 because 204/34 equals 6."
+  },
+  {
+    "negative": "67*160=? Sorry, I do not know.",
+    "positive": "67*160=? The answer is 10720 because 67*160 equals 10720."
+  },
+  {
+    "negative": "22*80=? Sorry, I do not know.",
+    "positive": "22*80=? The answer is 1760 because 22*80 equals 1760."
+  },
+  {
+    "negative": "x+90=257,x=? Sorry, I do not know.",
+    "positive": "x+90=257,x=? The answer is 167 because 257-90 equals 167."
+  },
+  {
+    "negative": "20*40=? Sorry, I do not know.",
+    "positive": "20*40=? The answer is 800 because 20*40 equals 800."
+  },
+  {
+    "negative": "76-129=? Sorry, I do not know.",
+    "positive": "76-129=? The answer is -53 because 76-129 equals -53."
+  },
+  {
+    "negative": "111*x=3663,x=? Sorry, I do not know.",
+    "positive": "111*x=3663,x=? The answer is 33 because 3663/111 equals 33."
+  },
+  {
+    "negative": "103-178=? Sorry, I do not know.",
+    "positive": "103-178=? The answer is -75 because 103-178 equals -75."
+  },
+  {
+    "negative": "133-137=? Sorry, I do not know.",
+    "positive": "133-137=? The answer is -4 because 133-137 equals -4."
+  },
+  {
+    "negative": "168-49=? Sorry, I do not know.",
+    "positive": "168-49=? The answer is 119 because 168-49 equals 119."
+  },
+  {
+    "negative": "11020/95=? Sorry, I do not know.",
+    "positive": "11020/95=? The answer is 116 because 11020/95 equals 116."
+  },
+  {
+    "negative": "x+92=96,x=? Sorry, I do not know.",
+    "positive": "x+92=96,x=? The answer is 4 because 96-92 equals 4."
+  },
+  {
+    "negative": "140+42=? Sorry, I do not know.",
+    "positive": "140+42=? The answer is 182 because 140+42 equals 182."
+  },
+  {
+    "negative": "17+8=? Sorry, I do not know.",
+    "positive": "17+8=? The answer is 25 because 17+8 equals 25."
+  },
+  {
+    "negative": "118+97=? Sorry, I do not know.",
+    "positive": "118+97=? The answer is 215 because 118+97 equals 215."
+  },
+  {
+    "negative": "5220/145=? Sorry, I do not know.",
+    "positive": "5220/145=? The answer is 36 because 5220/145 equals 36."
+  },
+  {
+    "negative": "555/185=? Sorry, I do not know.",
+    "positive": "555/185=? The answer is 3 because 555/185 equals 3."
+  },
+  {
+    "negative": "39-69=? Sorry, I do not know.",
+    "positive": "39-69=? The answer is -30 because 39-69 equals -30."
+  },
+  {
+    "negative": "105*177=? Sorry, I do not know.",
+    "positive": "105*177=? The answer is 18585 because 105*177 equals 18585."
+  },
+  {
+    "negative": "73+108=? Sorry, I do not know.",
+    "positive": "73+108=? The answer is 181 because 73+108 equals 181."
+  },
+  {
+    "negative": "142*195=? Sorry, I do not know.",
+    "positive": "142*195=? The answer is 27690 because 142*195 equals 27690."
+  },
+  {
+    "negative": "161*175=? Sorry, I do not know.",
+    "positive": "161*175=? The answer is 28175 because 161*175 equals 28175."
+  },
+  {
+    "negative": "171*97=? Sorry, I do not know.",
+    "positive": "171*97=? The answer is 16587 because 171*97 equals 16587."
+  },
+  {
+    "negative": "184-129=? Sorry, I do not know.",
+    "positive": "184-129=? The answer is 55 because 184-129 equals 55."
+  },
+  {
+    "negative": "126-102=? Sorry, I do not know.",
+    "positive": "126-102=? The answer is 24 because 126-102 equals 24."
+  },
+  {
+    "negative": "171-50=? Sorry, I do not know.",
+    "positive": "171-50=? The answer is 121 because 171-50 equals 121."
+  },
+  {
+    "negative": "195+86=? Sorry, I do not know.",
+    "positive": "195+86=? The answer is 281 because 195+86 equals 281."
+  },
+  {
+    "negative": "121-188=? Sorry, I do not know.",
+    "positive": "121-188=? The answer is -67 because 121-188 equals -67."
+  },
+  {
+    "negative": "62-37=? Sorry, I do not know.",
+    "positive": "62-37=? The answer is 25 because 62-37 equals 25."
+  },
+  {
+    "negative": "192+68=? Sorry, I do not know.",
+    "positive": "192+68=? The answer is 260 because 192+68 equals 260."
+  },
+  {
+    "negative": "109*78=? Sorry, I do not know.",
+    "positive": "109*78=? The answer is 8502 because 109*78 equals 8502."
+  },
+  {
+    "negative": "x-96=-76,x=? Sorry, I do not know.",
+    "positive": "x-96=-76,x=? The answer is 20 because -76+96 equals 20."
+  },
+  {
+    "negative": "56-45=? Sorry, I do not know.",
+    "positive": "56-45=? The answer is 11 because 56-45 equals 11."
+  },
+  {
+    "negative": "141+58=? Sorry, I do not know.",
+    "positive": "141+58=? The answer is 199 because 141+58 equals 199."
+  },
+  {
+    "negative": "14532/173=? Sorry, I do not know.",
+    "positive": "14532/173=? The answer is 84 because 14532/173 equals 84."
+  },
+  {
+    "negative": "198+14=? Sorry, I do not know.",
+    "positive": "198+14=? The answer is 212 because 198+14 equals 212."
+  },
+  {
+    "negative": "5880/98=? Sorry, I do not know.",
+    "positive": "5880/98=? The answer is 60 because 5880/98 equals 60."
+  },
+  {
+    "negative": "115*113=? Sorry, I do not know.",
+    "positive": "115*113=? The answer is 12995 because 115*113 equals 12995."
+  },
+  {
+    "negative": "77-103=? Sorry, I do not know.",
+    "positive": "77-103=? The answer is -26 because 77-103 equals -26."
+  },
+  {
+    "negative": "138*126=? Sorry, I do not know.",
+    "positive": "138*126=? The answer is 17388 because 138*126 equals 17388."
+  },
+  {
+    "negative": "6300/84=? Sorry, I do not know.",
+    "positive": "6300/84=? The answer is 75 because 6300/84 equals 75."
+  },
+  {
+    "negative": "126*83=? Sorry, I do not know.",
+    "positive": "126*83=? The answer is 10458 because 126*83 equals 10458."
+  },
+  {
+    "negative": "69-85=? Sorry, I do not know.",
+    "positive": "69-85=? The answer is -16 because 69-85 equals -16."
+  },
+  {
+    "negative": "152-x=76,x=? Sorry, I do not know.",
+    "positive": "152-x=76,x=? The answer is 76 because 152-76 equals 76."
+  },
+  {
+    "negative": "137*195=? Sorry, I do not know.",
+    "positive": "137*195=? The answer is 26715 because 137*195 equals 26715."
+  },
+  {
+    "negative": "194+40=? Sorry, I do not know.",
+    "positive": "194+40=? The answer is 234 because 194+40 equals 234."
+  },
+  {
+    "negative": "186-80=? Sorry, I do not know.",
+    "positive": "186-80=? The answer is 106 because 186-80 equals 106."
+  },
+  {
+    "negative": "2299/121=? Sorry, I do not know.",
+    "positive": "2299/121=? The answer is 19 because 2299/121 equals 19."
+  },
+  {
+    "negative": "5264/56=? Sorry, I do not know.",
+    "positive": "5264/56=? The answer is 94 because 5264/56 equals 94."
+  },
+  {
+    "negative": "34*x=3944,x=? Sorry, I do not know.",
+    "positive": "34*x=3944,x=? The answer is 116 because 3944/34 equals 116."
+  },
+  {
+    "negative": "408/24=? Sorry, I do not know.",
+    "positive": "408/24=? The answer is 17 because 408/24 equals 17."
+  },
+  {
+    "negative": "29*16=? Sorry, I do not know.",
+    "positive": "29*16=? The answer is 464 because 29*16 equals 464."
+  },
+  {
+    "negative": "27-97=? Sorry, I do not know.",
+    "positive": "27-97=? The answer is -70 because 27-97 equals -70."
+  },
+  {
+    "negative": "2660/28=? Sorry, I do not know.",
+    "positive": "2660/28=? The answer is 95 because 2660/28 equals 95."
+  },
+  {
+    "negative": "189*25=? Sorry, I do not know.",
+    "positive": "189*25=? The answer is 4725 because 189*25 equals 4725."
+  },
+  {
+    "negative": "x/102=18,x=? Sorry, I do not know.",
+    "positive": "x/102=18,x=? The answer is 1836 because 18*102 equals 1836."
+  },
+  {
+    "negative": "71*x=5467,x=? Sorry, I do not know.",
+    "positive": "71*x=5467,x=? The answer is 77 because 5467/71 equals 77."
+  },
+  {
+    "negative": "15*42=? Sorry, I do not know.",
+    "positive": "15*42=? The answer is 630 because 15*42 equals 630."
+  },
+  {
+    "negative": "70-11=? Sorry, I do not know.",
+    "positive": "70-11=? The answer is 59 because 70-11 equals 59."
+  },
+  {
+    "negative": "74+20=? Sorry, I do not know.",
+    "positive": "74+20=? The answer is 94 because 74+20 equals 94."
+  },
+  {
+    "negative": "x-79=40,x=? Sorry, I do not know.",
+    "positive": "x-79=40,x=? The answer is 119 because 40+79 equals 119."
+  },
+  {
+    "negative": "13*89=? Sorry, I do not know.",
+    "positive": "13*89=? The answer is 1157 because 13*89 equals 1157."
+  },
+  {
+    "negative": "9048/78=? Sorry, I do not know.",
+    "positive": "9048/78=? The answer is 116 because 9048/78 equals 116."
+  },
+  {
+    "negative": "106-104=? Sorry, I do not know.",
+    "positive": "106-104=? The answer is 2 because 106-104 equals 2."
+  },
+  {
+    "negative": "x*81=9072,x=? Sorry, I do not know.",
+    "positive": "x*81=9072,x=? The answer is 112 because 9072/81 equals 112."
+  },
+  {
+    "negative": "40*0=? Sorry, I do not know.",
+    "positive": "40*0=? The answer is 0 because 40*0 equals 0."
+  },
+  {
+    "negative": "1+18=? Sorry, I do not know.",
+    "positive": "1+18=? The answer is 19 because 1+18 equals 19."
+  },
+  {
+    "negative": "115+30=? Sorry, I do not know.",
+    "positive": "115+30=? The answer is 145 because 115+30 equals 145."
+  },
+  {
+    "negative": "46+71=? Sorry, I do not know.",
+    "positive": "46+71=? The answer is 117 because 46+71 equals 117."
+  },
+  {
+    "negative": "2442/74=? Sorry, I do not know.",
+    "positive": "2442/74=? The answer is 33 because 2442/74 equals 33."
+  },
+  {
+    "negative": "56+35=? Sorry, I do not know.",
+    "positive": "56+35=? The answer is 91 because 56+35 equals 91."
+  },
+  {
+    "negative": "85-105=? Sorry, I do not know.",
+    "positive": "85-105=? The answer is -20 because 85-105 equals -20."
+  },
+  {
+    "negative": "81-193=? Sorry, I do not know.",
+    "positive": "81-193=? The answer is -112 because 81-193 equals -112."
+  },
+  {
+    "negative": "x*165=2145,x=? Sorry, I do not know.",
+    "positive": "x*165=2145,x=? The answer is 13 because 2145/165 equals 13."
+  },
+  {
+    "negative": "13*141=? Sorry, I do not know.",
+    "positive": "13*141=? The answer is 1833 because 13*141 equals 1833."
+  },
+  {
+    "negative": "76*150=? Sorry, I do not know.",
+    "positive": "76*150=? The answer is 11400 because 76*150 equals 11400."
+  },
+  {
+    "negative": "24*x=3000,x=? Sorry, I do not know.",
+    "positive": "24*x=3000,x=? The answer is 125 because 3000/24 equals 125."
+  },
+  {
+    "negative": "191*183=? Sorry, I do not know.",
+    "positive": "191*183=? The answer is 34953 because 191*183 equals 34953."
+  },
+  {
+    "negative": "11+169=? Sorry, I do not know.",
+    "positive": "11+169=? The answer is 180 because 11+169 equals 180."
+  },
+  {
+    "negative": "17472/168=? Sorry, I do not know.",
+    "positive": "17472/168=? The answer is 104 because 17472/168 equals 104."
+  },
+  {
+    "negative": "96*101=? Sorry, I do not know.",
+    "positive": "96*101=? The answer is 9696 because 96*101 equals 9696."
+  },
+  {
+    "negative": "179*103=? Sorry, I do not know.",
+    "positive": "179*103=? The answer is 18437 because 179*103 equals 18437."
+  },
+  {
+    "negative": "193*7=? Sorry, I do not know.",
+    "positive": "193*7=? The answer is 1351 because 193*7 equals 1351."
+  },
+  {
+    "negative": "123*119=? Sorry, I do not know.",
+    "positive": "123*119=? The answer is 14637 because 123*119 equals 14637."
+  },
+  {
+    "negative": "2-170=? Sorry, I do not know.",
+    "positive": "2-170=? The answer is -168 because 2-170 equals -168."
+  },
+  {
+    "negative": "125*114=? Sorry, I do not know.",
+    "positive": "125*114=? The answer is 14250 because 125*114 equals 14250."
+  },
+  {
+    "negative": "11+186=? Sorry, I do not know.",
+    "positive": "11+186=? The answer is 197 because 11+186 equals 197."
+  },
+  {
+    "negative": "17+152=? Sorry, I do not know.",
+    "positive": "17+152=? The answer is 169 because 17+152 equals 169."
+  },
+  {
+    "negative": "25-18=? Sorry, I do not know.",
+    "positive": "25-18=? The answer is 7 because 25-18 equals 7."
+  },
+  {
+    "negative": "54+138=? Sorry, I do not know.",
+    "positive": "54+138=? The answer is 192 because 54+138 equals 192."
+  },
+  {
+    "negative": "195-147=? Sorry, I do not know.",
+    "positive": "195-147=? The answer is 48 because 195-147 equals 48."
+  },
+  {
+    "negative": "120*4=? Sorry, I do not know.",
+    "positive": "120*4=? The answer is 480 because 120*4 equals 480."
+  },
+  {
+    "negative": "38009/191=? Sorry, I do not know.",
+    "positive": "38009/191=? The answer is 199 because 38009/191 equals 199."
+  },
+  {
+    "negative": "95-x=-20,x=? Sorry, I do not know.",
+    "positive": "95-x=-20,x=? The answer is 115 because 95--20 equals 115."
+  },
+  {
+    "negative": "1-192=? Sorry, I do not know.",
+    "positive": "1-192=? The answer is -191 because 1-192 equals -191."
+  },
+  {
+    "negative": "169*102=? Sorry, I do not know.",
+    "positive": "169*102=? The answer is 17238 because 169*102 equals 17238."
+  },
+  {
+    "negative": "4875/39=? Sorry, I do not know.",
+    "positive": "4875/39=? The answer is 125 because 4875/39 equals 125."
+  },
+  {
+    "negative": "193*44=? Sorry, I do not know.",
+    "positive": "193*44=? The answer is 8492 because 193*44 equals 8492."
+  },
+  {
+    "negative": "3-x=-143,x=? Sorry, I do not know.",
+    "positive": "3-x=-143,x=? The answer is 146 because 3--143 equals 146."
+  },
+  {
+    "negative": "84/12=? Sorry, I do not know.",
+    "positive": "84/12=? The answer is 7 because 84/12 equals 7."
+  },
+  {
+    "negative": "135+40=? Sorry, I do not know.",
+    "positive": "135+40=? The answer is 175 because 135+40 equals 175."
+  },
+  {
+    "negative": "57-50=? Sorry, I do not know.",
+    "positive": "57-50=? The answer is 7 because 57-50 equals 7."
+  },
+  {
+    "negative": "x-173=-28,x=? Sorry, I do not know.",
+    "positive": "x-173=-28,x=? The answer is 145 because -28+173 equals 145."
+  },
+  {
+    "negative": "137-54=? Sorry, I do not know.",
+    "positive": "137-54=? The answer is 83 because 137-54 equals 83."
+  },
+  {
+    "negative": "x+13=103,x=? Sorry, I do not know.",
+    "positive": "x+13=103,x=? The answer is 90 because 103-13 equals 90."
+  },
+  {
+    "negative": "3480/120=? Sorry, I do not know.",
+    "positive": "3480/120=? The answer is 29 because 3480/120 equals 29."
+  },
+  {
+    "negative": "147+121=? Sorry, I do not know.",
+    "positive": "147+121=? The answer is 268 because 147+121 equals 268."
+  },
+  {
+    "negative": "x+116=131,x=? Sorry, I do not know.",
+    "positive": "x+116=131,x=? The answer is 15 because 131-116 equals 15."
+  },
+  {
+    "negative": "170-135=? Sorry, I do not know.",
+    "positive": "170-135=? The answer is 35 because 170-135 equals 35."
+  },
+  {
+    "negative": "151*68=? Sorry, I do not know.",
+    "positive": "151*68=? The answer is 10268 because 151*68 equals 10268."
+  },
+  {
+    "negative": "31360/160=? Sorry, I do not know.",
+    "positive": "31360/160=? The answer is 196 because 31360/160 equals 196."
+  },
+  {
+    "negative": "17136/102=? Sorry, I do not know.",
+    "positive": "17136/102=? The answer is 168 because 17136/102 equals 168."
+  },
+  {
+    "negative": "93-x=89,x=? Sorry, I do not know.",
+    "positive": "93-x=89,x=? The answer is 4 because 93-89 equals 4."
+  },
+  {
+    "negative": "57*166=? Sorry, I do not know.",
+    "positive": "57*166=? The answer is 9462 because 57*166 equals 9462."
+  },
+  {
+    "negative": "65/13=? Sorry, I do not know.",
+    "positive": "65/13=? The answer is 5 because 65/13 equals 5."
+  },
+  {
+    "negative": "113-172=? Sorry, I do not know.",
+    "positive": "113-172=? The answer is -59 because 113-172 equals -59."
+  },
+  {
+    "negative": "185+146=? Sorry, I do not know.",
+    "positive": "185+146=? The answer is 331 because 185+146 equals 331."
+  },
+  {
+    "negative": "22035/195=? Sorry, I do not know.",
+    "positive": "22035/195=? The answer is 113 because 22035/195 equals 113."
+  },
+  {
+    "negative": "125*142=? Sorry, I do not know.",
+    "positive": "125*142=? The answer is 17750 because 125*142 equals 17750."
+  },
+  {
+    "negative": "28380/165=? Sorry, I do not know.",
+    "positive": "28380/165=? The answer is 172 because 28380/165 equals 172."
+  },
+  {
+    "negative": "x/48=126,x=? Sorry, I do not know.",
+    "positive": "x/48=126,x=? The answer is 6048 because 126*48 equals 6048."
+  },
+  {
+    "negative": "23368/184=? Sorry, I do not know.",
+    "positive": "23368/184=? The answer is 127 because 23368/184 equals 127."
+  },
+  {
+    "negative": "63-68=? Sorry, I do not know.",
+    "positive": "63-68=? The answer is -5 because 63-68 equals -5."
+  },
+  {
+    "negative": "36248/197=? Sorry, I do not know.",
+    "positive": "36248/197=? The answer is 184 because 36248/197 equals 184."
+  },
+  {
+    "negative": "7476/178=? Sorry, I do not know.",
+    "positive": "7476/178=? The answer is 42 because 7476/178 equals 42."
+  },
+  {
+    "negative": "134*152=? Sorry, I do not know.",
+    "positive": "134*152=? The answer is 20368 because 134*152 equals 20368."
+  },
+  {
+    "negative": "4680/26=? Sorry, I do not know.",
+    "positive": "4680/26=? The answer is 180 because 4680/26 equals 180."
+  },
+  {
+    "negative": "77*175=? Sorry, I do not know.",
+    "positive": "77*175=? The answer is 13475 because 77*175 equals 13475."
+  },
+  {
+    "negative": "181-x=53,x=? Sorry, I do not know.",
+    "positive": "181-x=53,x=? The answer is 128 because 181-53 equals 128."
+  },
+  {
+    "negative": "133*166=? Sorry, I do not know.",
+    "positive": "133*166=? The answer is 22078 because 133*166 equals 22078."
+  },
+  {
+    "negative": "142+169=? Sorry, I do not know.",
+    "positive": "142+169=? The answer is 311 because 142+169 equals 311."
+  },
+  {
+    "negative": "36+67=? Sorry, I do not know.",
+    "positive": "36+67=? The answer is 103 because 36+67 equals 103."
+  },
+  {
+    "negative": "5335/97=? Sorry, I do not know.",
+    "positive": "5335/97=? The answer is 55 because 5335/97 equals 55."
+  },
+  {
+    "negative": "74*178=? Sorry, I do not know.",
+    "positive": "74*178=? The answer is 13172 because 74*178 equals 13172."
+  },
+  {
+    "negative": "14805/105=? Sorry, I do not know.",
+    "positive": "14805/105=? The answer is 141 because 14805/105 equals 141."
+  },
+  {
+    "negative": "148-155=? Sorry, I do not know.",
+    "positive": "148-155=? The answer is -7 because 148-155 equals -7."
+  },
+  {
+    "negative": "67-9=? Sorry, I do not know.",
+    "positive": "67-9=? The answer is 58 because 67-9 equals 58."
+  },
+  {
+    "negative": "24+24=? Sorry, I do not know.",
+    "positive": "24+24=? The answer is 48 because 24+24 equals 48."
+  },
+  {
+    "negative": "126*73=? Sorry, I do not know.",
+    "positive": "126*73=? The answer is 9198 because 126*73 equals 9198."
+  },
+  {
+    "negative": "104-x=-71,x=? Sorry, I do not know.",
+    "positive": "104-x=-71,x=? The answer is 175 because 104--71 equals 175."
+  },
+  {
+    "negative": "19822/187=? Sorry, I do not know.",
+    "positive": "19822/187=? The answer is 106 because 19822/187 equals 106."
+  },
+  {
+    "negative": "x+25=61,x=? Sorry, I do not know.",
+    "positive": "x+25=61,x=? The answer is 36 because 61-25 equals 36."
+  },
+  {
+    "negative": "x/130=21,x=? Sorry, I do not know.",
+    "positive": "x/130=21,x=? The answer is 2730 because 21*130 equals 2730."
+  },
+  {
+    "negative": "196+164=? Sorry, I do not know.",
+    "positive": "196+164=? The answer is 360 because 196+164 equals 360."
+  },
+  {
+    "negative": "14*x=2576,x=? Sorry, I do not know.",
+    "positive": "14*x=2576,x=? The answer is 184 because 2576/14 equals 184."
+  },
+  {
+    "negative": "1599/41=? Sorry, I do not know.",
+    "positive": "1599/41=? The answer is 39 because 1599/41 equals 39."
+  },
+  {
+    "negative": "75-141=? Sorry, I do not know.",
+    "positive": "75-141=? The answer is -66 because 75-141 equals -66."
+  },
+  {
+    "negative": "1530/102=? Sorry, I do not know.",
+    "positive": "1530/102=? The answer is 15 because 1530/102 equals 15."
+  },
+  {
+    "negative": "46-12=? Sorry, I do not know.",
+    "positive": "46-12=? The answer is 34 because 46-12 equals 34."
+  },
+  {
+    "negative": "167-176=? Sorry, I do not know.",
+    "positive": "167-176=? The answer is -9 because 167-176 equals -9."
+  },
+  {
+    "negative": "4770/45=? Sorry, I do not know.",
+    "positive": "4770/45=? The answer is 106 because 4770/45 equals 106."
+  },
+  {
+    "negative": "64*6=? Sorry, I do not know.",
+    "positive": "64*6=? The answer is 384 because 64*6 equals 384."
+  },
+  {
+    "negative": "962/74=? Sorry, I do not know.",
+    "positive": "962/74=? The answer is 13 because 962/74 equals 13."
+  },
+  {
+    "negative": "184+67=? Sorry, I do not know.",
+    "positive": "184+67=? The answer is 251 because 184+67 equals 251."
+  },
+  {
+    "negative": "154+67=? Sorry, I do not know.",
+    "positive": "154+67=? The answer is 221 because 154+67 equals 221."
+  },
+  {
+    "negative": "61+14=? Sorry, I do not know.",
+    "positive": "61+14=? The answer is 75 because 61+14 equals 75."
+  },
+  {
+    "negative": "94*42=? Sorry, I do not know.",
+    "positive": "94*42=? The answer is 3948 because 94*42 equals 3948."
+  },
+  {
+    "negative": "57*198=? Sorry, I do not know.",
+    "positive": "57*198=? The answer is 11286 because 57*198 equals 11286."
+  },
+  {
+    "negative": "23*58=? Sorry, I do not know.",
+    "positive": "23*58=? The answer is 1334 because 23*58 equals 1334."
+  },
+  {
+    "negative": "x+52=63,x=? Sorry, I do not know.",
+    "positive": "x+52=63,x=? The answer is 11 because 63-52 equals 11."
+  },
+  {
+    "negative": "46*124=? Sorry, I do not know.",
+    "positive": "46*124=? The answer is 5704 because 46*124 equals 5704."
+  },
+  {
+    "negative": "92*162=? Sorry, I do not know.",
+    "positive": "92*162=? The answer is 14904 because 92*162 equals 14904."
+  },
+  {
+    "negative": "107+168=? Sorry, I do not know.",
+    "positive": "107+168=? The answer is 275 because 107+168 equals 275."
+  },
+  {
+    "negative": "40+116=? Sorry, I do not know.",
+    "positive": "40+116=? The answer is 156 because 40+116 equals 156."
+  },
+  {
+    "negative": "71+171=? Sorry, I do not know.",
+    "positive": "71+171=? The answer is 242 because 71+171 equals 242."
+  },
+  {
+    "negative": "92+78=? Sorry, I do not know.",
+    "positive": "92+78=? The answer is 170 because 92+78 equals 170."
+  },
+  {
+    "negative": "27-152=? Sorry, I do not know.",
+    "positive": "27-152=? The answer is -125 because 27-152 equals -125."
+  },
+  {
+    "negative": "x+118=122,x=? Sorry, I do not know.",
+    "positive": "x+118=122,x=? The answer is 4 because 122-118 equals 4."
+  },
+  {
+    "negative": "145*156=? Sorry, I do not know.",
+    "positive": "145*156=? The answer is 22620 because 145*156 equals 22620."
+  },
+  {
+    "negative": "44*x=3652,x=? Sorry, I do not know.",
+    "positive": "44*x=3652,x=? The answer is 83 because 3652/44 equals 83."
+  },
+  {
+    "negative": "173+189=? Sorry, I do not know.",
+    "positive": "173+189=? The answer is 362 because 173+189 equals 362."
+  },
+  {
+    "negative": "45+129=? Sorry, I do not know.",
+    "positive": "45+129=? The answer is 174 because 45+129 equals 174."
+  },
+  {
+    "negative": "11583/117=? Sorry, I do not know.",
+    "positive": "11583/117=? The answer is 99 because 11583/117 equals 99."
+  },
+  {
+    "negative": "15-52=? Sorry, I do not know.",
+    "positive": "15-52=? The answer is -37 because 15-52 equals -37."
+  },
+  {
+    "negative": "121-156=? Sorry, I do not know.",
+    "positive": "121-156=? The answer is -35 because 121-156 equals -35."
+  },
+  {
+    "negative": "1380/10=? Sorry, I do not know.",
+    "positive": "1380/10=? The answer is 138 because 1380/10 equals 138."
+  },
+  {
+    "negative": "11218/142=? Sorry, I do not know.",
+    "positive": "11218/142=? The answer is 79 because 11218/142 equals 79."
+  },
+  {
+    "negative": "7254/117=? Sorry, I do not know.",
+    "positive": "7254/117=? The answer is 62 because 7254/117 equals 62."
+  },
+  {
+    "negative": "19+113=? Sorry, I do not know.",
+    "positive": "19+113=? The answer is 132 because 19+113 equals 132."
+  },
+  {
+    "negative": "x/175=20,x=? Sorry, I do not know.",
+    "positive": "x/175=20,x=? The answer is 3500 because 20*175 equals 3500."
+  },
+  {
+    "negative": "x-108=49,x=? Sorry, I do not know.",
+    "positive": "x-108=49,x=? The answer is 157 because 49+108 equals 157."
+  },
+  {
+    "negative": "39+160=? Sorry, I do not know.",
+    "positive": "39+160=? The answer is 199 because 39+160 equals 199."
+  },
+  {
+    "negative": "41-45=? Sorry, I do not know.",
+    "positive": "41-45=? The answer is -4 because 41-45 equals -4."
+  },
+  {
+    "negative": "x*73=6205,x=? Sorry, I do not know.",
+    "positive": "x*73=6205,x=? The answer is 85 because 6205/73 equals 85."
+  },
+  {
+    "negative": "87+28=? Sorry, I do not know.",
+    "positive": "87+28=? The answer is 115 because 87+28 equals 115."
+  },
+  {
+    "negative": "x/90=89,x=? Sorry, I do not know.",
+    "positive": "x/90=89,x=? The answer is 8010 because 89*90 equals 8010."
+  },
+  {
+    "negative": "193*127=? Sorry, I do not know.",
+    "positive": "193*127=? The answer is 24511 because 193*127 equals 24511."
+  },
+  {
+    "negative": "158+20=? Sorry, I do not know.",
+    "positive": "158+20=? The answer is 178 because 158+20 equals 178."
+  },
+  {
+    "negative": "117*181=? Sorry, I do not know.",
+    "positive": "117*181=? The answer is 21177 because 117*181 equals 21177."
+  },
+  {
+    "negative": "99-86=? Sorry, I do not know.",
+    "positive": "99-86=? The answer is 13 because 99-86 equals 13."
+  },
+  {
+    "negative": "1836/18=? Sorry, I do not know.",
+    "positive": "1836/18=? The answer is 102 because 1836/18 equals 102."
+  },
+  {
+    "negative": "39-180=? Sorry, I do not know.",
+    "positive": "39-180=? The answer is -141 because 39-180 equals -141."
+  },
+  {
+    "negative": "41-189=? Sorry, I do not know.",
+    "positive": "41-189=? The answer is -148 because 41-189 equals -148."
+  },
+  {
+    "negative": "2553/111=? Sorry, I do not know.",
+    "positive": "2553/111=? The answer is 23 because 2553/111 equals 23."
+  },
+  {
+    "negative": "66*87=? Sorry, I do not know.",
+    "positive": "66*87=? The answer is 5742 because 66*87 equals 5742."
+  },
+  {
+    "negative": "111-155=? Sorry, I do not know.",
+    "positive": "111-155=? The answer is -44 because 111-155 equals -44."
+  },
+  {
+    "negative": "20+141=? Sorry, I do not know.",
+    "positive": "20+141=? The answer is 161 because 20+141 equals 161."
+  },
+  {
+    "negative": "197-27=? Sorry, I do not know.",
+    "positive": "197-27=? The answer is 170 because 197-27 equals 170."
+  },
+  {
+    "negative": "14602/98=? Sorry, I do not know.",
+    "positive": "14602/98=? The answer is 149 because 14602/98 equals 149."
+  },
+  {
+    "negative": "4980/166=? Sorry, I do not know.",
+    "positive": "4980/166=? The answer is 30 because 4980/166 equals 30."
+  },
+  {
+    "negative": "902/82=? Sorry, I do not know.",
+    "positive": "902/82=? The answer is 11 because 902/82 equals 11."
+  },
+  {
+    "negative": "129-x=28,x=? Sorry, I do not know.",
+    "positive": "129-x=28,x=? The answer is 101 because 129-28 equals 101."
+  },
+  {
+    "negative": "114-40=? Sorry, I do not know.",
+    "positive": "114-40=? The answer is 74 because 114-40 equals 74."
+  },
+  {
+    "negative": "108+152=? Sorry, I do not know.",
+    "positive": "108+152=? The answer is 260 because 108+152 equals 260."
+  },
+  {
+    "negative": "28-19=? Sorry, I do not know.",
+    "positive": "28-19=? The answer is 9 because 28-19 equals 9."
+  },
+  {
+    "negative": "137*198=? Sorry, I do not know.",
+    "positive": "137*198=? The answer is 27126 because 137*198 equals 27126."
+  },
+  {
+    "negative": "x*2=60,x=? Sorry, I do not know.",
+    "positive": "x*2=60,x=? The answer is 30 because 60/2 equals 30."
+  },
+  {
+    "negative": "83+196=? Sorry, I do not know.",
+    "positive": "83+196=? The answer is 279 because 83+196 equals 279."
+  },
+  {
+    "negative": "x*35=1960,x=? Sorry, I do not know.",
+    "positive": "x*35=1960,x=? The answer is 56 because 1960/35 equals 56."
+  },
+  {
+    "negative": "64*122=? Sorry, I do not know.",
+    "positive": "64*122=? The answer is 7808 because 64*122 equals 7808."
+  },
+  {
+    "negative": "33043/173=? Sorry, I do not know.",
+    "positive": "33043/173=? The answer is 191 because 33043/173 equals 191."
+  },
+  {
+    "negative": "10062/117=? Sorry, I do not know.",
+    "positive": "10062/117=? The answer is 86 because 10062/117 equals 86."
+  },
+  {
+    "negative": "164-109=? Sorry, I do not know.",
+    "positive": "164-109=? The answer is 55 because 164-109 equals 55."
+  },
+  {
+    "negative": "290/145=? Sorry, I do not know.",
+    "positive": "290/145=? The answer is 2 because 290/145 equals 2."
+  },
+  {
+    "negative": "36*18=? Sorry, I do not know.",
+    "positive": "36*18=? The answer is 648 because 36*18 equals 648."
+  },
+  {
+    "negative": "86-194=? Sorry, I do not know.",
+    "positive": "86-194=? The answer is -108 because 86-194 equals -108."
+  },
+  {
+    "negative": "187-x=120,x=? Sorry, I do not know.",
+    "positive": "187-x=120,x=? The answer is 67 because 187-120 equals 67."
+  },
+  {
+    "negative": "3120/30=? Sorry, I do not know.",
+    "positive": "3120/30=? The answer is 104 because 3120/30 equals 104."
+  },
+  {
+    "negative": "133-x=-41,x=? Sorry, I do not know.",
+    "positive": "133-x=-41,x=? The answer is 174 because 133--41 equals 174."
+  },
+  {
+    "negative": "42+97=? Sorry, I do not know.",
+    "positive": "42+97=? The answer is 139 because 42+97 equals 139."
+  },
+  {
+    "negative": "77-73=? Sorry, I do not know.",
+    "positive": "77-73=? The answer is 4 because 77-73 equals 4."
+  },
+  {
+    "negative": "16+98=? Sorry, I do not know.",
+    "positive": "16+98=? The answer is 114 because 16+98 equals 114."
+  },
+  {
+    "negative": "166*10=? Sorry, I do not know.",
+    "positive": "166*10=? The answer is 1660 because 166*10 equals 1660."
+  },
+  {
+    "negative": "47*x=7238,x=? Sorry, I do not know.",
+    "positive": "47*x=7238,x=? The answer is 154 because 7238/47 equals 154."
+  },
+  {
+    "negative": "98*x=7056,x=? Sorry, I do not know.",
+    "positive": "98*x=7056,x=? The answer is 72 because 7056/98 equals 72."
+  },
+  {
+    "negative": "77-156=? Sorry, I do not know.",
+    "positive": "77-156=? The answer is -79 because 77-156 equals -79."
+  },
+  {
+    "negative": "2046/33=? Sorry, I do not know.",
+    "positive": "2046/33=? The answer is 62 because 2046/33 equals 62."
+  },
+  {
+    "negative": "37-6=? Sorry, I do not know.",
+    "positive": "37-6=? The answer is 31 because 37-6 equals 31."
+  },
+  {
+    "negative": "32661/191=? Sorry, I do not know.",
+    "positive": "32661/191=? The answer is 171 because 32661/191 equals 171."
+  },
+  {
+    "negative": "147+49=? Sorry, I do not know.",
+    "positive": "147+49=? The answer is 196 because 147+49 equals 196."
+  },
+  {
+    "negative": "71*46=? Sorry, I do not know.",
+    "positive": "71*46=? The answer is 3266 because 71*46 equals 3266."
+  },
+  {
+    "negative": "191*145=? Sorry, I do not know.",
+    "positive": "191*145=? The answer is 27695 because 191*145 equals 27695."
+  },
+  {
+    "negative": "189-188=? Sorry, I do not know.",
+    "positive": "189-188=? The answer is 1 because 189-188 equals 1."
+  },
+  {
+    "negative": "11220/66=? Sorry, I do not know.",
+    "positive": "11220/66=? The answer is 170 because 11220/66 equals 170."
+  },
+  {
+    "negative": "162+43=? Sorry, I do not know.",
+    "positive": "162+43=? The answer is 205 because 162+43 equals 205."
+  },
+  {
+    "negative": "111-88=? Sorry, I do not know.",
+    "positive": "111-88=? The answer is 23 because 111-88 equals 23."
+  },
+  {
+    "negative": "30*184=? Sorry, I do not know.",
+    "positive": "30*184=? The answer is 5520 because 30*184 equals 5520."
+  },
+  {
+    "negative": "23*120=? Sorry, I do not know.",
+    "positive": "23*120=? The answer is 2760 because 23*120 equals 2760."
+  },
+  {
+    "negative": "x-170=-21,x=? Sorry, I do not know.",
+    "positive": "x-170=-21,x=? The answer is 149 because -21+170 equals 149."
+  },
+  {
+    "negative": "6270/110=? Sorry, I do not know.",
+    "positive": "6270/110=? The answer is 57 because 6270/110 equals 57."
+  },
+  {
+    "negative": "53+171=? Sorry, I do not know.",
+    "positive": "53+171=? The answer is 224 because 53+171 equals 224."
+  },
+  {
+    "negative": "176*152=? Sorry, I do not know.",
+    "positive": "176*152=? The answer is 26752 because 176*152 equals 26752."
+  },
+  {
+    "negative": "50+39=? Sorry, I do not know.",
+    "positive": "50+39=? The answer is 89 because 50+39 equals 89."
+  },
+  {
+    "negative": "162*125=? Sorry, I do not know.",
+    "positive": "162*125=? The answer is 20250 because 162*125 equals 20250."
+  },
+  {
+    "negative": "142-63=? Sorry, I do not know.",
+    "positive": "142-63=? The answer is 79 because 142-63 equals 79."
+  },
+  {
+    "negative": "7722/66=? Sorry, I do not know.",
+    "positive": "7722/66=? The answer is 117 because 7722/66 equals 117."
+  },
+  {
+    "negative": "45*187=? Sorry, I do not know.",
+    "positive": "45*187=? The answer is 8415 because 45*187 equals 8415."
+  },
+  {
+    "negative": "6591/169=? Sorry, I do not know.",
+    "positive": "6591/169=? The answer is 39 because 6591/169 equals 39."
+  },
+  {
+    "negative": "174+137=? Sorry, I do not know.",
+    "positive": "174+137=? The answer is 311 because 174+137 equals 311."
+  },
+  {
+    "negative": "14+148=? Sorry, I do not know.",
+    "positive": "14+148=? The answer is 162 because 14+148 equals 162."
+  },
+  {
+    "negative": "x+127=187,x=? Sorry, I do not know.",
+    "positive": "x+127=187,x=? The answer is 60 because 187-127 equals 60."
+  },
+  {
+    "negative": "10545/111=? Sorry, I do not know.",
+    "positive": "10545/111=? The answer is 95 because 10545/111 equals 95."
+  },
+  {
+    "negative": "107*x=2996,x=? Sorry, I do not know.",
+    "positive": "107*x=2996,x=? The answer is 28 because 2996/107 equals 28."
+  },
+  {
+    "negative": "49*80=? Sorry, I do not know.",
+    "positive": "49*80=? The answer is 3920 because 49*80 equals 3920."
+  },
+  {
+    "negative": "x*18=2016,x=? Sorry, I do not know.",
+    "positive": "x*18=2016,x=? The answer is 112 because 2016/18 equals 112."
+  },
+  {
+    "negative": "x/183=25,x=? Sorry, I do not know.",
+    "positive": "x/183=25,x=? The answer is 4575 because 25*183 equals 4575."
+  },
+  {
+    "negative": "x*57=627,x=? Sorry, I do not know.",
+    "positive": "x*57=627,x=? The answer is 11 because 627/57 equals 11."
+  },
+  {
+    "negative": "9246/138=? Sorry, I do not know.",
+    "positive": "9246/138=? The answer is 67 because 9246/138 equals 67."
+  },
+  {
+    "negative": "76+163=? Sorry, I do not know.",
+    "positive": "76+163=? The answer is 239 because 76+163 equals 239."
+  },
+  {
+    "negative": "x/103=22,x=? Sorry, I do not know.",
+    "positive": "x/103=22,x=? The answer is 2266 because 22*103 equals 2266."
+  },
+  {
+    "negative": "19116/177=? Sorry, I do not know.",
+    "positive": "19116/177=? The answer is 108 because 19116/177 equals 108."
+  },
+  {
+    "negative": "13468/148=? Sorry, I do not know.",
+    "positive": "13468/148=? The answer is 91 because 13468/148 equals 91."
+  },
+  {
+    "negative": "2+174=? Sorry, I do not know.",
+    "positive": "2+174=? The answer is 176 because 2+174 equals 176."
+  },
+  {
+    "negative": "x*177=7434,x=? Sorry, I do not know.",
+    "positive": "x*177=7434,x=? The answer is 42 because 7434/177 equals 42."
+  },
+  {
+    "negative": "197-33=? Sorry, I do not know.",
+    "positive": "197-33=? The answer is 164 because 197-33 equals 164."
+  },
+  {
+    "negative": "143-104=? Sorry, I do not know.",
+    "positive": "143-104=? The answer is 39 because 143-104 equals 39."
+  },
+  {
+    "negative": "149*111=? Sorry, I do not know.",
+    "positive": "149*111=? The answer is 16539 because 149*111 equals 16539."
+  },
+  {
+    "negative": "176*121=? Sorry, I do not know.",
+    "positive": "176*121=? The answer is 21296 because 176*121 equals 21296."
+  },
+  {
+    "negative": "119*179=? Sorry, I do not know.",
+    "positive": "119*179=? The answer is 21301 because 119*179 equals 21301."
+  },
+  {
+    "negative": "410/5=? Sorry, I do not know.",
+    "positive": "410/5=? The answer is 82 because 410/5 equals 82."
+  },
+  {
+    "negative": "x+172=342,x=? Sorry, I do not know.",
+    "positive": "x+172=342,x=? The answer is 170 because 342-172 equals 170."
+  },
+  {
+    "negative": "19-x=-110,x=? Sorry, I do not know.",
+    "positive": "19-x=-110,x=? The answer is 129 because 19--110 equals 129."
+  },
+  {
+    "negative": "29-66=? Sorry, I do not know.",
+    "positive": "29-66=? The answer is -37 because 29-66 equals -37."
+  },
+  {
+    "negative": "38-59=? Sorry, I do not know.",
+    "positive": "38-59=? The answer is -21 because 38-59 equals -21."
+  },
+  {
+    "negative": "40-179=? Sorry, I do not know.",
+    "positive": "40-179=? The answer is -139 because 40-179 equals -139."
+  },
+  {
+    "negative": "104*115=? Sorry, I do not know.",
+    "positive": "104*115=? The answer is 11960 because 104*115 equals 11960."
+  },
+  {
+    "negative": "3375/135=? Sorry, I do not know.",
+    "positive": "3375/135=? The answer is 25 because 3375/135 equals 25."
+  },
+  {
+    "negative": "80+61=? Sorry, I do not know.",
+    "positive": "80+61=? The answer is 141 because 80+61 equals 141."
+  },
+  {
+    "negative": "104-x=-59,x=? Sorry, I do not know.",
+    "positive": "104-x=-59,x=? The answer is 163 because 104--59 equals 163."
+  },
+  {
+    "negative": "x/81=101,x=? Sorry, I do not know.",
+    "positive": "x/81=101,x=? The answer is 8181 because 101*81 equals 8181."
+  },
+  {
+    "negative": "x-107=-63,x=? Sorry, I do not know.",
+    "positive": "x-107=-63,x=? The answer is 44 because -63+107 equals 44."
+  },
+  {
+    "negative": "95+195=? Sorry, I do not know.",
+    "positive": "95+195=? The answer is 290 because 95+195 equals 290."
+  },
+  {
+    "negative": "17+194=? Sorry, I do not know.",
+    "positive": "17+194=? The answer is 211 because 17+194 equals 211."
+  },
+  {
+    "negative": "20+47=? Sorry, I do not know.",
+    "positive": "20+47=? The answer is 67 because 20+47 equals 67."
+  },
+  {
+    "negative": "27*110=? Sorry, I do not know.",
+    "positive": "27*110=? The answer is 2970 because 27*110 equals 2970."
+  },
+  {
+    "negative": "14400/192=? Sorry, I do not know.",
+    "positive": "14400/192=? The answer is 75 because 14400/192 equals 75."
+  },
+  {
+    "negative": "102*125=? Sorry, I do not know.",
+    "positive": "102*125=? The answer is 12750 because 102*125 equals 12750."
+  },
+  {
+    "negative": "24*x=3960,x=? Sorry, I do not know.",
+    "positive": "24*x=3960,x=? The answer is 165 because 3960/24 equals 165."
+  },
+  {
+    "negative": "31-184=? Sorry, I do not know.",
+    "positive": "31-184=? The answer is -153 because 31-184 equals -153."
+  },
+  {
+    "negative": "x+78=138,x=? Sorry, I do not know.",
+    "positive": "x+78=138,x=? The answer is 60 because 138-78 equals 60."
+  },
+  {
+    "negative": "x/81=36,x=? Sorry, I do not know.",
+    "positive": "x/81=36,x=? The answer is 2916 because 36*81 equals 2916."
+  },
+  {
+    "negative": "x+118=316,x=? Sorry, I do not know.",
+    "positive": "x+118=316,x=? The answer is 198 because 316-118 equals 198."
+  },
+  {
+    "negative": "71+1=? Sorry, I do not know.",
+    "positive": "71+1=? The answer is 72 because 71+1 equals 72."
+  },
+  {
+    "negative": "143+50=? Sorry, I do not know.",
+    "positive": "143+50=? The answer is 193 because 143+50 equals 193."
+  },
+  {
+    "negative": "41*79=? Sorry, I do not know.",
+    "positive": "41*79=? The answer is 3239 because 41*79 equals 3239."
+  },
+  {
+    "negative": "153*10=? Sorry, I do not know.",
+    "positive": "153*10=? The answer is 1530 because 153*10 equals 1530."
+  },
+  {
+    "negative": "x-175=-146,x=? Sorry, I do not know.",
+    "positive": "x-175=-146,x=? The answer is 29 because -146+175 equals 29."
+  },
+  {
+    "negative": "3402/126=? Sorry, I do not know.",
+    "positive": "3402/126=? The answer is 27 because 3402/126 equals 27."
+  },
+  {
+    "negative": "x*12=1116,x=? Sorry, I do not know.",
+    "positive": "x*12=1116,x=? The answer is 93 because 1116/12 equals 93."
+  },
+  {
+    "negative": "45*77=? Sorry, I do not know.",
+    "positive": "45*77=? The answer is 3465 because 45*77 equals 3465."
+  },
+  {
+    "negative": "14527/199=? Sorry, I do not know.",
+    "positive": "14527/199=? The answer is 73 because 14527/199 equals 73."
+  },
+  {
+    "negative": "150*194=? Sorry, I do not know.",
+    "positive": "150*194=? The answer is 29100 because 150*194 equals 29100."
+  },
+  {
+    "negative": "4826/127=? Sorry, I do not know.",
+    "positive": "4826/127=? The answer is 38 because 4826/127 equals 38."
+  },
+  {
+    "negative": "800/80=? Sorry, I do not know.",
+    "positive": "800/80=? The answer is 10 because 800/80 equals 10."
+  },
+  {
+    "negative": "8432/136=? Sorry, I do not know.",
+    "positive": "8432/136=? The answer is 62 because 8432/136 equals 62."
+  },
+  {
+    "negative": "4128/129=? Sorry, I do not know.",
+    "positive": "4128/129=? The answer is 32 because 4128/129 equals 32."
+  },
+  {
+    "negative": "54+167=? Sorry, I do not know.",
+    "positive": "54+167=? The answer is 221 because 54+167 equals 221."
+  },
+  {
+    "negative": "69-111=? Sorry, I do not know.",
+    "positive": "69-111=? The answer is -42 because 69-111 equals -42."
+  },
+  {
+    "negative": "21*61=? Sorry, I do not know.",
+    "positive": "21*61=? The answer is 1281 because 21*61 equals 1281."
+  },
+  {
+    "negative": "13*38=? Sorry, I do not know.",
+    "positive": "13*38=? The answer is 494 because 13*38 equals 494."
+  },
+  {
+    "negative": "87-52=? Sorry, I do not know.",
+    "positive": "87-52=? The answer is 35 because 87-52 equals 35."
+  },
+  {
+    "negative": "23+55=? Sorry, I do not know.",
+    "positive": "23+55=? The answer is 78 because 23+55 equals 78."
+  },
+  {
+    "negative": "35+108=? Sorry, I do not know.",
+    "positive": "35+108=? The answer is 143 because 35+108 equals 143."
+  },
+  {
+    "negative": "21-x=-5,x=? Sorry, I do not know.",
+    "positive": "21-x=-5,x=? The answer is 26 because 21--5 equals 26."
+  },
+  {
+    "negative": "109+149=? Sorry, I do not know.",
+    "positive": "109+149=? The answer is 258 because 109+149 equals 258."
+  },
+  {
+    "negative": "143-2=? Sorry, I do not know.",
+    "positive": "143-2=? The answer is 141 because 143-2 equals 141."
+  },
+  {
+    "negative": "12950/74=? Sorry, I do not know.",
+    "positive": "12950/74=? The answer is 175 because 12950/74 equals 175."
+  },
+  {
+    "negative": "62+121=? Sorry, I do not know.",
+    "positive": "62+121=? The answer is 183 because 62+121 equals 183."
+  },
+  {
+    "negative": "x/13=91,x=? Sorry, I do not know.",
+    "positive": "x/13=91,x=? The answer is 1183 because 91*13 equals 1183."
+  },
+  {
+    "negative": "139+22=? Sorry, I do not know.",
+    "positive": "139+22=? The answer is 161 because 139+22 equals 161."
+  },
+  {
+    "negative": "123-x=42,x=? Sorry, I do not know.",
+    "positive": "123-x=42,x=? The answer is 81 because 123-42 equals 81."
+  },
+  {
+    "negative": "6358/34=? Sorry, I do not know.",
+    "positive": "6358/34=? The answer is 187 because 6358/34 equals 187."
+  },
+  {
+    "negative": "40+174=? Sorry, I do not know.",
+    "positive": "40+174=? The answer is 214 because 40+174 equals 214."
+  },
+  {
+    "negative": "x/158=27,x=? Sorry, I do not know.",
+    "positive": "x/158=27,x=? The answer is 4266 because 27*158 equals 4266."
+  },
+  {
+    "negative": "61*44=? Sorry, I do not know.",
+    "positive": "61*44=? The answer is 2684 because 61*44 equals 2684."
+  },
+  {
+    "negative": "183+80=? Sorry, I do not know.",
+    "positive": "183+80=? The answer is 263 because 183+80 equals 263."
+  },
+  {
+    "negative": "4719/143=? Sorry, I do not know.",
+    "positive": "4719/143=? The answer is 33 because 4719/143 equals 33."
+  },
+  {
+    "negative": "78*152=? Sorry, I do not know.",
+    "positive": "78*152=? The answer is 11856 because 78*152 equals 11856."
+  },
+  {
+    "negative": "9*x=1305,x=? Sorry, I do not know.",
+    "positive": "9*x=1305,x=? The answer is 145 because 1305/9 equals 145."
+  },
+  {
+    "negative": "14448/172=? Sorry, I do not know.",
+    "positive": "14448/172=? The answer is 84 because 14448/172 equals 84."
+  },
+  {
+    "negative": "176*77=? Sorry, I do not know.",
+    "positive": "176*77=? The answer is 13552 because 176*77 equals 13552."
+  },
+  {
+    "negative": "15600/80=? Sorry, I do not know.",
+    "positive": "15600/80=? The answer is 195 because 15600/80 equals 195."
+  },
+  {
+    "negative": "5-x=-116,x=? Sorry, I do not know.",
+    "positive": "5-x=-116,x=? The answer is 121 because 5--116 equals 121."
+  },
+  {
+    "negative": "39+48=? Sorry, I do not know.",
+    "positive": "39+48=? The answer is 87 because 39+48 equals 87."
+  },
+  {
+    "negative": "81-138=? Sorry, I do not know.",
+    "positive": "81-138=? The answer is -57 because 81-138 equals -57."
+  },
+  {
+    "negative": "528/33=? Sorry, I do not know.",
+    "positive": "528/33=? The answer is 16 because 528/33 equals 16."
+  },
+  {
+    "negative": "183+124=? Sorry, I do not know.",
+    "positive": "183+124=? The answer is 307 because 183+124 equals 307."
+  },
+  {
+    "negative": "156-x=-35,x=? Sorry, I do not know.",
+    "positive": "156-x=-35,x=? The answer is 191 because 156--35 equals 191."
+  },
+  {
+    "negative": "70*11=? Sorry, I do not know.",
+    "positive": "70*11=? The answer is 770 because 70*11 equals 770."
+  },
+  {
+    "negative": "32702/197=? Sorry, I do not know.",
+    "positive": "32702/197=? The answer is 166 because 32702/197 equals 166."
+  },
+  {
+    "negative": "10788/62=? Sorry, I do not know.",
+    "positive": "10788/62=? The answer is 174 because 10788/62 equals 174."
+  },
+  {
+    "negative": "12144/132=? Sorry, I do not know.",
+    "positive": "12144/132=? The answer is 92 because 12144/132 equals 92."
+  },
+  {
+    "negative": "3*181=? Sorry, I do not know.",
+    "positive": "3*181=? The answer is 543 because 3*181 equals 543."
+  },
+  {
+    "negative": "78-58=? Sorry, I do not know.",
+    "positive": "78-58=? The answer is 20 because 78-58 equals 20."
+  },
+  {
+    "negative": "113-156=? Sorry, I do not know.",
+    "positive": "113-156=? The answer is -43 because 113-156 equals -43."
+  },
+  {
+    "negative": "7139/121=? Sorry, I do not know.",
+    "positive": "7139/121=? The answer is 59 because 7139/121 equals 59."
+  },
+  {
+    "negative": "13604/76=? Sorry, I do not know.",
+    "positive": "13604/76=? The answer is 179 because 13604/76 equals 179."
+  },
+  {
+    "negative": "112*20=? Sorry, I do not know.",
+    "positive": "112*20=? The answer is 2240 because 112*20 equals 2240."
+  },
+  {
+    "negative": "47*13=? Sorry, I do not know.",
+    "positive": "47*13=? The answer is 611 because 47*13 equals 611."
+  },
+  {
+    "negative": "39-60=? Sorry, I do not know.",
+    "positive": "39-60=? The answer is -21 because 39-60 equals -21."
+  },
+  {
+    "negative": "171*26=? Sorry, I do not know.",
+    "positive": "171*26=? The answer is 4446 because 171*26 equals 4446."
+  },
+  {
+    "negative": "43-x=5,x=? Sorry, I do not know.",
+    "positive": "43-x=5,x=? The answer is 38 because 43-5 equals 38."
+  },
+  {
+    "negative": "20*x=1840,x=? Sorry, I do not know.",
+    "positive": "20*x=1840,x=? The answer is 92 because 1840/20 equals 92."
+  },
+  {
+    "negative": "178-132=? Sorry, I do not know.",
+    "positive": "178-132=? The answer is 46 because 178-132 equals 46."
+  },
+  {
+    "negative": "117-80=? Sorry, I do not know.",
+    "positive": "117-80=? The answer is 37 because 117-80 equals 37."
+  },
+  {
+    "negative": "118+63=? Sorry, I do not know.",
+    "positive": "118+63=? The answer is 181 because 118+63 equals 181."
+  },
+  {
+    "negative": "191-44=? Sorry, I do not know.",
+    "positive": "191-44=? The answer is 147 because 191-44 equals 147."
+  },
+  {
+    "negative": "19*151=? Sorry, I do not know.",
+    "positive": "19*151=? The answer is 2869 because 19*151 equals 2869."
+  },
+  {
+    "negative": "20412/108=? Sorry, I do not know.",
+    "positive": "20412/108=? The answer is 189 because 20412/108 equals 189."
+  },
+  {
+    "negative": "103*131=? Sorry, I do not know.",
+    "positive": "103*131=? The answer is 13493 because 103*131 equals 13493."
+  },
+  {
+    "negative": "92*159=? Sorry, I do not know.",
+    "positive": "92*159=? The answer is 14628 because 92*159 equals 14628."
+  },
+  {
+    "negative": "82*154=? Sorry, I do not know.",
+    "positive": "82*154=? The answer is 12628 because 82*154 equals 12628."
+  },
+  {
+    "negative": "x+75=181,x=? Sorry, I do not know.",
+    "positive": "x+75=181,x=? The answer is 106 because 181-75 equals 106."
+  },
+  {
+    "negative": "x/137=59,x=? Sorry, I do not know.",
+    "positive": "x/137=59,x=? The answer is 8083 because 59*137 equals 8083."
+  },
+  {
+    "negative": "15+103=? Sorry, I do not know.",
+    "positive": "15+103=? The answer is 118 because 15+103 equals 118."
+  },
+  {
+    "negative": "99-x=-74,x=? Sorry, I do not know.",
+    "positive": "99-x=-74,x=? The answer is 173 because 99--74 equals 173."
+  },
+  {
+    "negative": "32-x=-87,x=? Sorry, I do not know.",
+    "positive": "32-x=-87,x=? The answer is 119 because 32--87 equals 119."
+  },
+  {
+    "negative": "166*113=? Sorry, I do not know.",
+    "positive": "166*113=? The answer is 18758 because 166*113 equals 18758."
+  },
+  {
+    "negative": "18+155=? Sorry, I do not know.",
+    "positive": "18+155=? The answer is 173 because 18+155 equals 173."
+  },
+  {
+    "negative": "x+144=275,x=? Sorry, I do not know.",
+    "positive": "x+144=275,x=? The answer is 131 because 275-144 equals 131."
+  },
+  {
+    "negative": "172-79=? Sorry, I do not know.",
+    "positive": "172-79=? The answer is 93 because 172-79 equals 93."
+  },
+  {
+    "negative": "x*75=2700,x=? Sorry, I do not know.",
+    "positive": "x*75=2700,x=? The answer is 36 because 2700/75 equals 36."
+  },
+  {
+    "negative": "100-x=-62,x=? Sorry, I do not know.",
+    "positive": "100-x=-62,x=? The answer is 162 because 100--62 equals 162."
+  },
+  {
+    "negative": "161-147=? Sorry, I do not know.",
+    "positive": "161-147=? The answer is 14 because 161-147 equals 14."
+  },
+  {
+    "negative": "52*x=2132,x=? Sorry, I do not know.",
+    "positive": "52*x=2132,x=? The answer is 41 because 2132/52 equals 41."
+  },
+  {
+    "negative": "88*108=? Sorry, I do not know.",
+    "positive": "88*108=? The answer is 9504 because 88*108 equals 9504."
+  },
+  {
+    "negative": "13915/115=? Sorry, I do not know.",
+    "positive": "13915/115=? The answer is 121 because 13915/115 equals 121."
+  },
+  {
+    "negative": "199+135=? Sorry, I do not know.",
+    "positive": "199+135=? The answer is 334 because 199+135 equals 334."
+  },
+  {
+    "negative": "136*x=3944,x=? Sorry, I do not know.",
+    "positive": "136*x=3944,x=? The answer is 29 because 3944/136 equals 29."
+  },
+  {
+    "negative": "120*122=? Sorry, I do not know.",
+    "positive": "120*122=? The answer is 14640 because 120*122 equals 14640."
+  },
+  {
+    "negative": "133*97=? Sorry, I do not know.",
+    "positive": "133*97=? The answer is 12901 because 133*97 equals 12901."
+  },
+  {
+    "negative": "119-106=? Sorry, I do not know.",
+    "positive": "119-106=? The answer is 13 because 119-106 equals 13."
+  },
+  {
+    "negative": "71-17=? Sorry, I do not know.",
+    "positive": "71-17=? The answer is 54 because 71-17 equals 54."
+  },
+  {
+    "negative": "21-72=? Sorry, I do not know.",
+    "positive": "21-72=? The answer is -51 because 21-72 equals -51."
+  },
+  {
+    "negative": "84-138=? Sorry, I do not know.",
+    "positive": "84-138=? The answer is -54 because 84-138 equals -54."
+  },
+  {
+    "negative": "11550/77=? Sorry, I do not know.",
+    "positive": "11550/77=? The answer is 150 because 11550/77 equals 150."
+  },
+  {
+    "negative": "175*59=? Sorry, I do not know.",
+    "positive": "175*59=? The answer is 10325 because 175*59 equals 10325."
+  },
+  {
+    "negative": "169*148=? Sorry, I do not know.",
+    "positive": "169*148=? The answer is 25012 because 169*148 equals 25012."
+  },
+  {
+    "negative": "136-6=? Sorry, I do not know.",
+    "positive": "136-6=? The answer is 130 because 136-6 equals 130."
+  },
+  {
+    "negative": "93-110=? Sorry, I do not know.",
+    "positive": "93-110=? The answer is -17 because 93-110 equals -17."
+  },
+  {
+    "negative": "x+162=338,x=? Sorry, I do not know.",
+    "positive": "x+162=338,x=? The answer is 176 because 338-162 equals 176."
+  },
+  {
+    "negative": "178-98=? Sorry, I do not know.",
+    "positive": "178-98=? The answer is 80 because 178-98 equals 80."
+  },
+  {
+    "negative": "110*188=? Sorry, I do not know.",
+    "positive": "110*188=? The answer is 20680 because 110*188 equals 20680."
+  },
+  {
+    "negative": "91-53=? Sorry, I do not know.",
+    "positive": "91-53=? The answer is 38 because 91-53 equals 38."
+  },
+  {
+    "negative": "17*199=? Sorry, I do not know.",
+    "positive": "17*199=? The answer is 3383 because 17*199 equals 3383."
+  },
+  {
+    "negative": "94-72=? Sorry, I do not know.",
+    "positive": "94-72=? The answer is 22 because 94-72 equals 22."
+  },
+  {
+    "negative": "x+75=112,x=? Sorry, I do not know.",
+    "positive": "x+75=112,x=? The answer is 37 because 112-75 equals 37."
+  },
+  {
+    "negative": "8901/69=? Sorry, I do not know.",
+    "positive": "8901/69=? The answer is 129 because 8901/69 equals 129."
+  },
+  {
+    "negative": "14904/108=? Sorry, I do not know.",
+    "positive": "14904/108=? The answer is 138 because 14904/108 equals 138."
+  },
+  {
+    "negative": "189-x=41,x=? Sorry, I do not know.",
+    "positive": "189-x=41,x=? The answer is 148 because 189-41 equals 148."
+  },
+  {
+    "negative": "170-x=161,x=? Sorry, I do not know.",
+    "positive": "170-x=161,x=? The answer is 9 because 170-161 equals 9."
+  },
+  {
+    "negative": "166-x=106,x=? Sorry, I do not know.",
+    "positive": "166-x=106,x=? The answer is 60 because 166-106 equals 60."
+  },
+  {
+    "negative": "6864/176=? Sorry, I do not know.",
+    "positive": "6864/176=? The answer is 39 because 6864/176 equals 39."
+  },
+  {
+    "negative": "102+171=? Sorry, I do not know.",
+    "positive": "102+171=? The answer is 273 because 102+171 equals 273."
+  },
+  {
+    "negative": "6785/59=? Sorry, I do not know.",
+    "positive": "6785/59=? The answer is 115 because 6785/59 equals 115."
+  },
+  {
+    "negative": "66+52=? Sorry, I do not know.",
+    "positive": "66+52=? The answer is 118 because 66+52 equals 118."
+  },
+  {
+    "negative": "169-26=? Sorry, I do not know.",
+    "positive": "169-26=? The answer is 143 because 169-26 equals 143."
+  },
+  {
+    "negative": "107+56=? Sorry, I do not know.",
+    "positive": "107+56=? The answer is 163 because 107+56 equals 163."
+  },
+  {
+    "negative": "119-113=? Sorry, I do not know.",
+    "positive": "119-113=? The answer is 6 because 119-113 equals 6."
+  },
+  {
+    "negative": "31-116=? Sorry, I do not know.",
+    "positive": "31-116=? The answer is -85 because 31-116 equals -85."
+  },
+  {
+    "negative": "167-135=? Sorry, I do not know.",
+    "positive": "167-135=? The answer is 32 because 167-135 equals 32."
+  },
+  {
+    "negative": "176*47=? Sorry, I do not know.",
+    "positive": "176*47=? The answer is 8272 because 176*47 equals 8272."
+  },
+  {
+    "negative": "x+180=326,x=? Sorry, I do not know.",
+    "positive": "x+180=326,x=? The answer is 146 because 326-180 equals 146."
+  },
+  {
+    "negative": "68*147=? Sorry, I do not know.",
+    "positive": "68*147=? The answer is 9996 because 68*147 equals 9996."
+  },
+  {
+    "negative": "165-x=91,x=? Sorry, I do not know.",
+    "positive": "165-x=91,x=? The answer is 74 because 165-91 equals 74."
+  },
+  {
+    "negative": "x+109=244,x=? Sorry, I do not know.",
+    "positive": "x+109=244,x=? The answer is 135 because 244-109 equals 135."
+  },
+  {
+    "negative": "3588/69=? Sorry, I do not know.",
+    "positive": "3588/69=? The answer is 52 because 3588/69 equals 52."
+  },
+  {
+    "negative": "14040/72=? Sorry, I do not know.",
+    "positive": "14040/72=? The answer is 195 because 14040/72 equals 195."
+  },
+  {
+    "negative": "15-x=6,x=? Sorry, I do not know.",
+    "positive": "15-x=6,x=? The answer is 9 because 15-6 equals 9."
+  },
+  {
+    "negative": "149+144=? Sorry, I do not know.",
+    "positive": "149+144=? The answer is 293 because 149+144 equals 293."
+  },
+  {
+    "negative": "12+28=? Sorry, I do not know.",
+    "positive": "12+28=? The answer is 40 because 12+28 equals 40."
+  },
+  {
+    "negative": "116+162=? Sorry, I do not know.",
+    "positive": "116+162=? The answer is 278 because 116+162 equals 278."
+  },
+  {
+    "negative": "21079/107=? Sorry, I do not know.",
+    "positive": "21079/107=? The answer is 197 because 21079/107 equals 197."
+  },
+  {
+    "negative": "13392/186=? Sorry, I do not know.",
+    "positive": "13392/186=? The answer is 72 because 13392/186 equals 72."
+  },
+  {
+    "negative": "x+186=264,x=? Sorry, I do not know.",
+    "positive": "x+186=264,x=? The answer is 78 because 264-186 equals 78."
+  },
+  {
+    "negative": "103-185=? Sorry, I do not know.",
+    "positive": "103-185=? The answer is -82 because 103-185 equals -82."
+  },
+  {
+    "negative": "45-148=? Sorry, I do not know.",
+    "positive": "45-148=? The answer is -103 because 45-148 equals -103."
+  },
+  {
+    "negative": "176+142=? Sorry, I do not know.",
+    "positive": "176+142=? The answer is 318 because 176+142 equals 318."
+  },
+  {
+    "negative": "171+183=? Sorry, I do not know.",
+    "positive": "171+183=? The answer is 354 because 171+183 equals 354."
+  },
+  {
+    "negative": "x*38=4978,x=? Sorry, I do not know.",
+    "positive": "x*38=4978,x=? The answer is 131 because 4978/38 equals 131."
+  },
+  {
+    "negative": "3132/116=? Sorry, I do not know.",
+    "positive": "3132/116=? The answer is 27 because 3132/116 equals 27."
+  },
+  {
+    "negative": "150*169=? Sorry, I do not know.",
+    "positive": "150*169=? The answer is 25350 because 150*169 equals 25350."
+  },
+  {
+    "negative": "27+160=? Sorry, I do not know.",
+    "positive": "27+160=? The answer is 187 because 27+160 equals 187."
+  },
+  {
+    "negative": "188-139=? Sorry, I do not know.",
+    "positive": "188-139=? The answer is 49 because 188-139 equals 49."
+  },
+  {
+    "negative": "54*90=? Sorry, I do not know.",
+    "positive": "54*90=? The answer is 4860 because 54*90 equals 4860."
+  },
+  {
+    "negative": "119+135=? Sorry, I do not know.",
+    "positive": "119+135=? The answer is 254 because 119+135 equals 254."
+  },
+  {
+    "negative": "24220/140=? Sorry, I do not know.",
+    "positive": "24220/140=? The answer is 173 because 24220/140 equals 173."
+  },
+  {
+    "negative": "118-12=? Sorry, I do not know.",
+    "positive": "118-12=? The answer is 106 because 118-12 equals 106."
+  },
+  {
+    "negative": "17-62=? Sorry, I do not know.",
+    "positive": "17-62=? The answer is -45 because 17-62 equals -45."
+  },
+  {
+    "negative": "56-51=? Sorry, I do not know.",
+    "positive": "56-51=? The answer is 5 because 56-51 equals 5."
+  },
+  {
+    "negative": "90-199=? Sorry, I do not know.",
+    "positive": "90-199=? The answer is -109 because 90-199 equals -109."
+  },
+  {
+    "negative": "116-83=? Sorry, I do not know.",
+    "positive": "116-83=? The answer is 33 because 116-83 equals 33."
+  },
+  {
+    "negative": "138+33=? Sorry, I do not know.",
+    "positive": "138+33=? The answer is 171 because 138+33 equals 171."
+  },
+  {
+    "negative": "8*59=? Sorry, I do not know.",
+    "positive": "8*59=? The answer is 472 because 8*59 equals 472."
+  },
+  {
+    "negative": "x-16=160,x=? Sorry, I do not know.",
+    "positive": "x-16=160,x=? The answer is 176 because 160+16 equals 176."
+  },
+  {
+    "negative": "x+35=66,x=? Sorry, I do not know.",
+    "positive": "x+35=66,x=? The answer is 31 because 66-35 equals 31."
+  },
+  {
+    "negative": "27*148=? Sorry, I do not know.",
+    "positive": "27*148=? The answer is 3996 because 27*148 equals 3996."
+  },
+  {
+    "negative": "120*132=? Sorry, I do not know.",
+    "positive": "120*132=? The answer is 15840 because 120*132 equals 15840."
+  },
+  {
+    "negative": "54+145=? Sorry, I do not know.",
+    "positive": "54+145=? The answer is 199 because 54+145 equals 199."
+  },
+  {
+    "negative": "x-191=-191,x=? Sorry, I do not know.",
+    "positive": "x-191=-191,x=? The answer is 0 because -191+191 equals 0."
+  },
+  {
+    "negative": "116*x=1160,x=? Sorry, I do not know.",
+    "positive": "116*x=1160,x=? The answer is 10 because 1160/116 equals 10."
+  },
+  {
+    "negative": "172+167=? Sorry, I do not know.",
+    "positive": "172+167=? The answer is 339 because 172+167 equals 339."
+  },
+  {
+    "negative": "26896/164=? Sorry, I do not know.",
+    "positive": "26896/164=? The answer is 164 because 26896/164 equals 164."
+  },
+  {
+    "negative": "x*187=3927,x=? Sorry, I do not know.",
+    "positive": "x*187=3927,x=? The answer is 21 because 3927/187 equals 21."
+  },
+  {
+    "negative": "x-147=-128,x=? Sorry, I do not know.",
+    "positive": "x-147=-128,x=? The answer is 19 because -128+147 equals 19."
+  },
+  {
+    "negative": "0-85=? Sorry, I do not know.",
+    "positive": "0-85=? The answer is -85 because 0-85 equals -85."
+  },
+  {
+    "negative": "140-x=50,x=? Sorry, I do not know.",
+    "positive": "140-x=50,x=? The answer is 90 because 140-50 equals 90."
+  },
+  {
+    "negative": "x+16=181,x=? Sorry, I do not know.",
+    "positive": "x+16=181,x=? The answer is 165 because 181-16 equals 165."
+  },
+  {
+    "negative": "69*78=? Sorry, I do not know.",
+    "positive": "69*78=? The answer is 5382 because 69*78 equals 5382."
+  },
+  {
+    "negative": "29*139=? Sorry, I do not know.",
+    "positive": "29*139=? The answer is 4031 because 29*139 equals 4031."
+  },
+  {
+    "negative": "x/38=97,x=? Sorry, I do not know.",
+    "positive": "x/38=97,x=? The answer is 3686 because 97*38 equals 3686."
+  },
+  {
+    "negative": "63+148=? Sorry, I do not know.",
+    "positive": "63+148=? The answer is 211 because 63+148 equals 211."
+  },
+  {
+    "negative": "171-173=? Sorry, I do not know.",
+    "positive": "171-173=? The answer is -2 because 171-173 equals -2."
+  },
+  {
+    "negative": "x-103=-15,x=? Sorry, I do not know.",
+    "positive": "x-103=-15,x=? The answer is 88 because -15+103 equals 88."
+  },
+  {
+    "negative": "49+48=? Sorry, I do not know.",
+    "positive": "49+48=? The answer is 97 because 49+48 equals 97."
+  },
+  {
+    "negative": "155*155=? Sorry, I do not know.",
+    "positive": "155*155=? The answer is 24025 because 155*155 equals 24025."
+  },
+  {
+    "negative": "183*50=? Sorry, I do not know.",
+    "positive": "183*50=? The answer is 9150 because 183*50 equals 9150."
+  },
+  {
+    "negative": "35530/187=? Sorry, I do not know.",
+    "positive": "35530/187=? The answer is 190 because 35530/187 equals 190."
+  },
+  {
+    "negative": "x+33=63,x=? Sorry, I do not know.",
+    "positive": "x+33=63,x=? The answer is 30 because 63-33 equals 30."
+  },
+  {
+    "negative": "141*19=? Sorry, I do not know.",
+    "positive": "141*19=? The answer is 2679 because 141*19 equals 2679."
+  },
+  {
+    "negative": "196-x=161,x=? Sorry, I do not know.",
+    "positive": "196-x=161,x=? The answer is 35 because 196-161 equals 35."
+  },
+  {
+    "negative": "100-151=? Sorry, I do not know.",
+    "positive": "100-151=? The answer is -51 because 100-151 equals -51."
+  },
+  {
+    "negative": "4587/139=? Sorry, I do not know.",
+    "positive": "4587/139=? The answer is 33 because 4587/139 equals 33."
+  },
+  {
+    "negative": "5513/37=? Sorry, I do not know.",
+    "positive": "5513/37=? The answer is 149 because 5513/37 equals 149."
+  },
+  {
+    "negative": "163-70=? Sorry, I do not know.",
+    "positive": "163-70=? The answer is 93 because 163-70 equals 93."
+  },
+  {
+    "negative": "136+186=? Sorry, I do not know.",
+    "positive": "136+186=? The answer is 322 because 136+186 equals 322."
+  },
+  {
+    "negative": "26*3=? Sorry, I do not know.",
+    "positive": "26*3=? The answer is 78 because 26*3 equals 78."
+  },
+  {
+    "negative": "172*147=? Sorry, I do not know.",
+    "positive": "172*147=? The answer is 25284 because 172*147 equals 25284."
+  },
+  {
+    "negative": "129*165=? Sorry, I do not know.",
+    "positive": "129*165=? The answer is 21285 because 129*165 equals 21285."
+  },
+  {
+    "negative": "2346/102=? Sorry, I do not know.",
+    "positive": "2346/102=? The answer is 23 because 2346/102 equals 23."
+  },
+  {
+    "negative": "7954/82=? Sorry, I do not know.",
+    "positive": "7954/82=? The answer is 97 because 7954/82 equals 97."
+  },
+  {
+    "negative": "12+149=? Sorry, I do not know.",
+    "positive": "12+149=? The answer is 161 because 12+149 equals 161."
+  },
+  {
+    "negative": "25620/183=? Sorry, I do not know.",
+    "positive": "25620/183=? The answer is 140 because 25620/183 equals 140."
+  },
+  {
+    "negative": "x+165=246,x=? Sorry, I do not know.",
+    "positive": "x+165=246,x=? The answer is 81 because 246-165 equals 81."
+  },
+  {
+    "negative": "11102/182=? Sorry, I do not know.",
+    "positive": "11102/182=? The answer is 61 because 11102/182 equals 61."
+  },
+  {
+    "negative": "150*5=? Sorry, I do not know.",
+    "positive": "150*5=? The answer is 750 because 150*5 equals 750."
+  },
+  {
+    "negative": "127+101=? Sorry, I do not know.",
+    "positive": "127+101=? The answer is 228 because 127+101 equals 228."
+  },
+  {
+    "negative": "98-147=? Sorry, I do not know.",
+    "positive": "98-147=? The answer is -49 because 98-147 equals -49."
+  },
+  {
+    "negative": "53-110=? Sorry, I do not know.",
+    "positive": "53-110=? The answer is -57 because 53-110 equals -57."
+  },
+  {
+    "negative": "6*79=? Sorry, I do not know.",
+    "positive": "6*79=? The answer is 474 because 6*79 equals 474."
+  },
+  {
+    "negative": "125-64=? Sorry, I do not know.",
+    "positive": "125-64=? The answer is 61 because 125-64 equals 61."
+  },
+  {
+    "negative": "160*54=? Sorry, I do not know.",
+    "positive": "160*54=? The answer is 8640 because 160*54 equals 8640."
+  },
+  {
+    "negative": "x/4=47,x=? Sorry, I do not know.",
+    "positive": "x/4=47,x=? The answer is 188 because 47*4 equals 188."
+  },
+  {
+    "negative": "186+13=? Sorry, I do not know.",
+    "positive": "186+13=? The answer is 199 because 186+13 equals 199."
+  },
+  {
+    "negative": "x+58=188,x=? Sorry, I do not know.",
+    "positive": "x+58=188,x=? The answer is 130 because 188-58 equals 130."
+  },
+  {
+    "negative": "167-82=? Sorry, I do not know.",
+    "positive": "167-82=? The answer is 85 because 167-82 equals 85."
+  },
+  {
+    "negative": "110-32=? Sorry, I do not know.",
+    "positive": "110-32=? The answer is 78 because 110-32 equals 78."
+  },
+  {
+    "negative": "49-183=? Sorry, I do not know.",
+    "positive": "49-183=? The answer is -134 because 49-183 equals -134."
+  },
+  {
+    "negative": "x+40=75,x=? Sorry, I do not know.",
+    "positive": "x+40=75,x=? The answer is 35 because 75-40 equals 35."
+  },
+  {
+    "negative": "x*89=1780,x=? Sorry, I do not know.",
+    "positive": "x*89=1780,x=? The answer is 20 because 1780/89 equals 20."
+  },
+  {
+    "negative": "4416/192=? Sorry, I do not know.",
+    "positive": "4416/192=? The answer is 23 because 4416/192 equals 23."
+  },
+  {
+    "negative": "x-123=68,x=? Sorry, I do not know.",
+    "positive": "x-123=68,x=? The answer is 191 because 68+123 equals 191."
+  },
+  {
+    "negative": "64*82=? Sorry, I do not know.",
+    "positive": "64*82=? The answer is 5248 because 64*82 equals 5248."
+  },
+  {
+    "negative": "116-106=? Sorry, I do not know.",
+    "positive": "116-106=? The answer is 10 because 116-106 equals 10."
+  },
+  {
+    "negative": "9*116=? Sorry, I do not know.",
+    "positive": "9*116=? The answer is 1044 because 9*116 equals 1044."
+  },
+  {
+    "negative": "12792/156=? Sorry, I do not know.",
+    "positive": "12792/156=? The answer is 82 because 12792/156 equals 82."
+  },
+  {
+    "negative": "x+182=334,x=? Sorry, I do not know.",
+    "positive": "x+182=334,x=? The answer is 152 because 334-182 equals 152."
+  },
+  {
+    "negative": "x*53=9328,x=? Sorry, I do not know.",
+    "positive": "x*53=9328,x=? The answer is 176 because 9328/53 equals 176."
+  },
+  {
+    "negative": "104-83=? Sorry, I do not know.",
+    "positive": "104-83=? The answer is 21 because 104-83 equals 21."
+  },
+  {
+    "negative": "18*147=? Sorry, I do not know.",
+    "positive": "18*147=? The answer is 2646 because 18*147 equals 2646."
+  },
+  {
+    "negative": "168+110=? Sorry, I do not know.",
+    "positive": "168+110=? The answer is 278 because 168+110 equals 278."
+  },
+  {
+    "negative": "80+102=? Sorry, I do not know.",
+    "positive": "80+102=? The answer is 182 because 80+102 equals 182."
+  },
+  {
+    "negative": "7520/80=? Sorry, I do not know.",
+    "positive": "7520/80=? The answer is 94 because 7520/80 equals 94."
+  },
+  {
+    "negative": "x+164=234,x=? Sorry, I do not know.",
+    "positive": "x+164=234,x=? The answer is 70 because 234-164 equals 70."
+  },
+  {
+    "negative": "20928/109=? Sorry, I do not know.",
+    "positive": "20928/109=? The answer is 192 because 20928/109 equals 192."
+  },
+  {
+    "negative": "53-183=? Sorry, I do not know.",
+    "positive": "53-183=? The answer is -130 because 53-183 equals -130."
+  },
+  {
+    "negative": "38*68=? Sorry, I do not know.",
+    "positive": "38*68=? The answer is 2584 because 38*68 equals 2584."
+  },
+  {
+    "negative": "139-9=? Sorry, I do not know.",
+    "positive": "139-9=? The answer is 130 because 139-9 equals 130."
+  },
+  {
+    "negative": "111*187=? Sorry, I do not know.",
+    "positive": "111*187=? The answer is 20757 because 111*187 equals 20757."
+  },
+  {
+    "negative": "39*61=? Sorry, I do not know.",
+    "positive": "39*61=? The answer is 2379 because 39*61 equals 2379."
+  },
+  {
+    "negative": "174+165=? Sorry, I do not know.",
+    "positive": "174+165=? The answer is 339 because 174+165 equals 339."
+  },
+  {
+    "negative": "10304/56=? Sorry, I do not know.",
+    "positive": "10304/56=? The answer is 184 because 10304/56 equals 184."
+  },
+  {
+    "negative": "158-191=? Sorry, I do not know.",
+    "positive": "158-191=? The answer is -33 because 158-191 equals -33."
+  },
+  {
+    "negative": "62+41=? Sorry, I do not know.",
+    "positive": "62+41=? The answer is 103 because 62+41 equals 103."
+  },
+  {
+    "negative": "x/7=29,x=? Sorry, I do not know.",
+    "positive": "x/7=29,x=? The answer is 203 because 29*7 equals 203."
+  },
+  {
+    "negative": "23074/166=? Sorry, I do not know.",
+    "positive": "23074/166=? The answer is 139 because 23074/166 equals 139."
+  },
+  {
+    "negative": "17415/129=? Sorry, I do not know.",
+    "positive": "17415/129=? The answer is 135 because 17415/129 equals 135."
+  },
+  {
+    "negative": "13144/124=? Sorry, I do not know.",
+    "positive": "13144/124=? The answer is 106 because 13144/124 equals 106."
+  },
+  {
+    "negative": "86*7=? Sorry, I do not know.",
+    "positive": "86*7=? The answer is 602 because 86*7 equals 602."
+  },
+  {
+    "negative": "180+17=? Sorry, I do not know.",
+    "positive": "180+17=? The answer is 197 because 180+17 equals 197."
+  },
+  {
+    "negative": "1710/30=? Sorry, I do not know.",
+    "positive": "1710/30=? The answer is 57 because 1710/30 equals 57."
+  },
+  {
+    "negative": "4+28=? Sorry, I do not know.",
+    "positive": "4+28=? The answer is 32 because 4+28 equals 32."
+  },
+  {
+    "negative": "191+149=? Sorry, I do not know.",
+    "positive": "191+149=? The answer is 340 because 191+149 equals 340."
+  },
+  {
+    "negative": "139-180=? Sorry, I do not know.",
+    "positive": "139-180=? The answer is -41 because 139-180 equals -41."
+  },
+  {
+    "negative": "174-63=? Sorry, I do not know.",
+    "positive": "174-63=? The answer is 111 because 174-63 equals 111."
+  },
+  {
+    "negative": "114+150=? Sorry, I do not know.",
+    "positive": "114+150=? The answer is 264 because 114+150 equals 264."
+  },
+  {
+    "negative": "x*8=1304,x=? Sorry, I do not know.",
+    "positive": "x*8=1304,x=? The answer is 163 because 1304/8 equals 163."
+  },
+  {
+    "negative": "x-182=-100,x=? Sorry, I do not know.",
+    "positive": "x-182=-100,x=? The answer is 82 because -100+182 equals 82."
+  },
+  {
+    "negative": "x/13=62,x=? Sorry, I do not know.",
+    "positive": "x/13=62,x=? The answer is 806 because 62*13 equals 806."
+  },
+  {
+    "negative": "12213/69=? Sorry, I do not know.",
+    "positive": "12213/69=? The answer is 177 because 12213/69 equals 177."
+  },
+  {
+    "negative": "21901/181=? Sorry, I do not know.",
+    "positive": "21901/181=? The answer is 121 because 21901/181 equals 121."
+  },
+  {
+    "negative": "62*26=? Sorry, I do not know.",
+    "positive": "62*26=? The answer is 1612 because 62*26 equals 1612."
+  },
+  {
+    "negative": "14105/91=? Sorry, I do not know.",
+    "positive": "14105/91=? The answer is 155 because 14105/91 equals 155."
+  },
+  {
+    "negative": "x-157=-24,x=? Sorry, I do not know.",
+    "positive": "x-157=-24,x=? The answer is 133 because -24+157 equals 133."
+  },
+  {
+    "negative": "158+92=? Sorry, I do not know.",
+    "positive": "158+92=? The answer is 250 because 158+92 equals 250."
+  },
+  {
+    "negative": "155+108=? Sorry, I do not know.",
+    "positive": "155+108=? The answer is 263 because 155+108 equals 263."
+  },
+  {
+    "negative": "936/156=? Sorry, I do not know.",
+    "positive": "936/156=? The answer is 6 because 936/156 equals 6."
+  },
+  {
+    "negative": "8848/158=? Sorry, I do not know.",
+    "positive": "8848/158=? The answer is 56 because 8848/158 equals 56."
+  },
+  {
+    "negative": "75-x=-63,x=? Sorry, I do not know.",
+    "positive": "75-x=-63,x=? The answer is 138 because 75--63 equals 138."
+  },
+  {
+    "negative": "x+60=223,x=? Sorry, I do not know.",
+    "positive": "x+60=223,x=? The answer is 163 because 223-60 equals 163."
+  },
+  {
+    "negative": "133+80=? Sorry, I do not know.",
+    "positive": "133+80=? The answer is 213 because 133+80 equals 213."
+  },
+  {
+    "negative": "48-65=? Sorry, I do not know.",
+    "positive": "48-65=? The answer is -17 because 48-65 equals -17."
+  },
+  {
+    "negative": "140+25=? Sorry, I do not know.",
+    "positive": "140+25=? The answer is 165 because 140+25 equals 165."
+  },
+  {
+    "negative": "133-124=? Sorry, I do not know.",
+    "positive": "133-124=? The answer is 9 because 133-124 equals 9."
+  },
+  {
+    "negative": "165*182=? Sorry, I do not know.",
+    "positive": "165*182=? The answer is 30030 because 165*182 equals 30030."
+  },
+  {
+    "negative": "105-6=? Sorry, I do not know.",
+    "positive": "105-6=? The answer is 99 because 105-6 equals 99."
+  },
+  {
+    "negative": "180-109=? Sorry, I do not know.",
+    "positive": "180-109=? The answer is 71 because 180-109 equals 71."
+  },
+  {
+    "negative": "x*80=4880,x=? Sorry, I do not know.",
+    "positive": "x*80=4880,x=? The answer is 61 because 4880/80 equals 61."
+  },
+  {
+    "negative": "32-159=? Sorry, I do not know.",
+    "positive": "32-159=? The answer is -127 because 32-159 equals -127."
+  },
+  {
+    "negative": "72*179=? Sorry, I do not know.",
+    "positive": "72*179=? The answer is 12888 because 72*179 equals 12888."
+  },
+  {
+    "negative": "88*136=? Sorry, I do not know.",
+    "positive": "88*136=? The answer is 11968 because 88*136 equals 11968."
+  },
+  {
+    "negative": "73*112=? Sorry, I do not know.",
+    "positive": "73*112=? The answer is 8176 because 73*112 equals 8176."
+  },
+  {
+    "negative": "938/14=? Sorry, I do not know.",
+    "positive": "938/14=? The answer is 67 because 938/14 equals 67."
+  },
+  {
+    "negative": "2772/66=? Sorry, I do not know.",
+    "positive": "2772/66=? The answer is 42 because 2772/66 equals 42."
+  },
+  {
+    "negative": "75*56=? Sorry, I do not know.",
+    "positive": "75*56=? The answer is 4200 because 75*56 equals 4200."
+  },
+  {
+    "negative": "140-0=? Sorry, I do not know.",
+    "positive": "140-0=? The answer is 140 because 140-0 equals 140."
+  },
+  {
+    "negative": "26+23=? Sorry, I do not know.",
+    "positive": "26+23=? The answer is 49 because 26+23 equals 49."
+  },
+  {
+    "negative": "7189/91=? Sorry, I do not know.",
+    "positive": "7189/91=? The answer is 79 because 7189/91 equals 79."
+  },
+  {
+    "negative": "57+35=? Sorry, I do not know.",
+    "positive": "57+35=? The answer is 92 because 57+35 equals 92."
+  },
+  {
+    "negative": "10-x=-25,x=? Sorry, I do not know.",
+    "positive": "10-x=-25,x=? The answer is 35 because 10--25 equals 35."
+  },
+  {
+    "negative": "162-108=? Sorry, I do not know.",
+    "positive": "162-108=? The answer is 54 because 162-108 equals 54."
+  },
+  {
+    "negative": "112/16=? Sorry, I do not know.",
+    "positive": "112/16=? The answer is 7 because 112/16 equals 7."
+  }
+]
