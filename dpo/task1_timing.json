@@ -1,15 +1,44 @@
 {
   "method": "deterministic arithmetic with fixed refusal negatives",
-  "pairs": 1000,
+  "pairs": 300000,
   "seed": 42,
   "category_counts": {
-    "algebra": 200,
-    "division": 200,
-    "multiplication": 200,
-    "subtraction": 200,
-    "addition": 200
+    "arithmetic": 150000,
+    "algebra": 150000
+  },
+  "operation_counts": {
+    "arithmetic": {
+      "-": 37500,
+      "/": 37500,
+      "+": 37500,
+      "*": 37500
+    },
+    "algebra": {
+      "-": 37500,
+      "*": 37500,
+      "/": 37500,
+      "+": 37500
+    }
+  },
+  "unknown_position_counts": {
+    "+": {
+      "right": 18750,
+      "left": 18750
+    },
+    "-": {
+      "right": 18750,
+      "left": 18750
+    },
+    "*": {
+      "left": 18750,
+      "right": 18750
+    },
+    "/": {
+      "right": 18750,
+      "left": 18750
+    }
   },
   "max_length": 64,
   "model_inference_calls": 0,
-  "elapsed_seconds": 0.05787840000084543
+  "elapsed_seconds": 6.037242700000206
 }
