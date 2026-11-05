@@ -15,7 +15,7 @@ __pycache__/
 
 # Model checkpoints
 sft/gpt.pt
-dpo/dpo.pt
+#dpo/dpo.pt
 
 # Weights & Biases logs
 wandb/
